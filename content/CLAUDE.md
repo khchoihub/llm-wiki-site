@@ -1,83 +1,272 @@
 # LLM Wiki — 정책학 (Policy Studies)
 
-A personal knowledge base of policy studies papers, following [Karpathy's LLM Wiki pattern](https://gist.github.com/karpathy/1dd0294ef9567971c1e4348a90d69285):
-
-```
-Original PDF → sources/*.md (LLM summary) → wiki/{category}/*.md (final page)
-```
-
-**Language policy**: All wiki content is in English. Conversation can be in any language (including Korean).
+개인 연구용 문헌 지식 베이스. 정책환류이론(Policy Feedback Theory), 공공봉사동기(PSM), 관료적저항(Bureaucratic Resistance), 민군관계(Civil-Military Relations) 중심.
 
 ---
 
-## THE FOUR RULES (do not violate)
+## 4대 원칙 (절대 위반 금지)
 
-1. **No web search.** Never use `WebSearch` or `WebFetch` to fill gaps. Every answer must be grounded in papers we actually have.
-2. **Answer from the wiki first.** Use `sources/` and `wiki/` as the only sources of truth.
-3. **If the wiki is insufficient, re-read the PDF.** Go to `papers/{stem}.pdf` and extract more detail with `pypdf`. Then update the wiki.
-4. **If the wiki has no paper on the topic, say so.** Tell the user *"I don't have a paper on this — please give me the PDF."* Do not improvise.
-
-These rules apply to **every** response, including overview pages: cite only papers that exist in the wiki.
+1. **웹 검색 금지.** `WebSearch`·`WebFetch`로 내용을 채우지 않는다. 모든 답변은 실제 보유 논문에 근거한다.
+2. **위키 우선 답변.** `wiki/`가 유일한 진실의 원천이다.
+3. **위키가 부족하면 PDF 재독.** `papers/{파일명}.pdf`를 `pypdf`로 재추출한 뒤 위키를 업데이트한다.
+4. **논문이 없으면 솔직히 말한다.** *"이 주제의 논문이 없습니다 — PDF를 주세요."* 즉흥 답변 금지.
 
 ---
 
-## Repository Structure
+## 서술 언어
 
-```
-llm-wiki/
-├── CLAUDE.md                        # This file
-├── index.md                         # Page catalog
-├── papers/                          # Original PDFs (cp, never symlink)
-│   └── {author}-{year}-{title-5-words}.pdf
-├── sources/                         # PDF summaries (English)
-│   └── {author}-{year}-{title-5-words}.md
-└── wiki/                            # Wiki pages (English)
-    ├── policy-feedback/             # 정책피드백 이론
-    ├── policy-process/              # 정책과정론
-    ├── policy-analysis/             # 정책분석
-    ├── law-of-war/                  # 전쟁법
-    ├── military-personnel-policy/   # 군인사정책
-    └── overviews/                   # Synthesis pages
-```
-
-## File Naming Convention
-
-All three tiers (PDF, source, wiki) share the same stem:
-
-```
-{first-author-lastname}-{year}-{first-5-title-words}.{ext}
-```
-
-- Lowercase, special chars stripped, spaces → `-`
-- Year is 4 digits
-- Korean author names: romanize (e.g. `kim-2023-...`)
-- Government/institutional reports: use org name (e.g. `ministry-of-defense-2022-...`)
-
-Example: `pierson-1993-when-effect-becomes-cause.pdf`
-
-## Categories
-
-| Category (folder) | Korean | Includes |
-|---|---|---|
-| `policy-feedback` | 정책피드백 이론 | Policy feedback mechanisms, path dependence, lock-in effects, resource/incentive effects |
-| `policy-process` | 정책과정론 | Agenda setting, policy formulation, implementation, evaluation, multiple streams, ACF, punctuated equilibrium |
-| `policy-analysis` | 정책분석 | Analytical frameworks, cost-benefit analysis, regulatory impact, evidence-based policy |
-| `law-of-war` | 전쟁법 | IHL, Geneva Conventions, LOAC, ROE, war crimes, proportionality |
-| `military-personnel-policy` | 군인사정책 | Military HR, promotion systems, conscription, veteran policy, officer career management |
-| `overviews` | 종합 정리 | Synthesis pages spanning multiple papers |
-
-**Classification rule**: Classify by **theoretical framework or method**, not by topic. A paper on military promotion policy using feedback theory → `policy-feedback`, not `military-personnel-policy`.
+- **위키 내 모든 서술: 한국어.** 주요 학술 용어는 괄호에 영문 병기. 예: 정책환류(Policy Feedback)
+- **백링크 개념 노드: 한국어만.** 괄호 없이. 예: `[[관료적저항]]`
+- 대화는 어떤 언어든 가능.
 
 ---
 
-## Adding a New Paper
+## 저장소 구조
 
-### Step 1 — Copy PDF to `papers/` and extract text
+```
+G:\내 드라이브\llm-wiki-papers\      ← 원본 PDF (구글 드라이브)
+
+llm-wiki/                            ← GitHub 동기화 (.md 파일만)
+├── CLAUDE.md
+├── index.md
+└── wiki/
+    ├── 00_INDEX/
+    │   └── 전체개념지도.md
+    ├── 01_개념노트/                  ← 트랙 A: 교과서 기반 개념 정의
+    │   ├── policy-feedback/         ← 정책환류이론
+    │   ├── policy-process/          ← 정책과정론
+    │   ├── policy-analysis/         ← 정책분석
+    │   ├── law-of-war/              ← 전쟁법
+    │   └── military-personnel-policy/ ← 군인사정책
+    ├── 02_논문노트/                  ← 트랙 B: 일반 논문 분석
+    ├── 03_메타분석노트/              ← 트랙 B: 메타분석 전용
+    ├── 04_방법론/
+    └── 99_미분류/
+```
+
+---
+
+## 투 트랙 구조
+
+```
+트랙 A (안정적 뼈대)              트랙 B (누적 논문)
+─────────────────                ──────────────────
+교과서 기반 개념 정의              개별 논문 분석 노트
+잘 바뀌지 않음                    계속 쌓임
+wiki/01_개념노트/                 wiki/02_논문노트/
+                                         ↓
+                             5편 누적 시 합성 → 트랙 A 업데이트
+```
+
+- 트랙 B 논문 노트에 핵심 개념을 `[[관료적저항]]` 형식으로 표기
+- 논문이 쌓일수록 개념 노드가 위키처럼 작동 (Obsidian 백링크)
+- 메타분석 1편 = 일반 논문 3~5편 수준 → 메타분석 2편 누적 시 합성 가능
+
+---
+
+## 파일 명명 규칙
+
+### 트랙 A — 개념 노트
+```
+{개념명}.md
+예: 관료적저항.md, 정책환류.md, PSM.md
+```
+
+### 트랙 B — 논문 노트
+```
+{연도}_{제1저자성}_{핵심키워드}.md
+예: 2024_Mettler_정책환류_시민참여.md
+예: 2019_김태은_PSM_군조직.md
+```
+
+- 한국 저자: 성 로마자 표기 또는 한국어 그대로
+- 키워드: 2~3개, 언더스코어 구분
+
+### PDF
+```
+{연도}_{제1저자성}_{핵심키워드}.pdf
+```
+저장 위치: `G:\내 드라이브\llm-wiki-papers\`
+트랙 B 파일명과 동일 스텝 사용.
+
+---
+
+## 트랙 A — 개념 노트 포맷
+
+```markdown
+---
+tags: [트랙A, 개념노트]
+최종수정: YYYY-MM-DD
+---
+
+# {개념명(영문)}
+
+## 정의
+(2~3문장. 핵심 정의만)
+
+## 이론적 맥락
+(어떤 흐름에서 등장한 개념인지. 3~5문장)
+
+## 핵심 주장 또는 명제
+- 
+- 
+
+## 대표 학자
+- {학자명(영문)}: {기여 내용 한 줄}
+
+## 관련 개념
+[[관련개념1]] [[관련개념2]]
+
+## 트랙B 합성 공간
+(비워둠. 논문 5편 누적 후 합성 시 채움)
+```
+
+---
+
+## 트랙 B — 논문 노트 마스터 프롬프트
+
+논문 PDF를 웹 AI(Claude, Gemini)에 업로드한 후 아래 프롬프트 사용.
+
+### 일반 논문
+
+```
+당신은 정책학·행정학 전공 연구자를 위한 문헌 분석 전문 보조자입니다.
+첨부된 논문 PDF를 분석하여 아래 형식의 Obsidian 노트를 작성해 주세요.
+
+출력 규칙:
+1. 모든 서술은 한국어. 주요 학술 용어는 괄호 안에 영문 병기. 예: 정책환류(Policy Feedback)
+2. 이론·개념·변수명 등장 시 반드시 [[이중괄호]]. 예: [[관료적저항]], [[PSM]]
+3. 괄호 안에는 한국어만. [[관료적저항]] (O) / [[Bureaucratic Resistance]] (X)
+4. 사실 서술과 AI 추론·제안은 명확히 구분
+
+---
+tags: [트랙B, 논문노트]
+저장일: YYYY-MM-DD
+---
+
+# {논문 제목 한국어 번역 (원제)}
+
+## 메타데이터
+- 저자: / 연도: / 저널: / DOI:
+- 연구 유형: 실증연구 / 이론연구 / 리뷰
+
+## 연구 질문 및 가설
+
+## 이론적 틀
+- 독립변수(IV): [[백링크 포함]]
+- 종속변수(DV): [[백링크 포함]]
+- 매개/조절변수: (있으면)
+- 이론적 근거: [[백링크 포함]]
+
+## 방법론
+- 데이터: [출처, 국가, 시기, N]
+- 분석 방법:
+- 특이사항:
+
+## 핵심 발견
+(bullet 3~5개. 수치 결과 포함)
+
+## 이론적 기여
+(2~4문장)
+
+## 향후 연구 방향
+### 저자가 제시한 방향
+### AI 추론: 추가 가능한 방향 [AI 제안]
+
+## 재현·발전 가능성 [AI 분석]
+- 한국 맥락 또는 군(軍) 조직·안보정책 맥락에서 재현·발전 가능성
+- 연구자의 관심 주제(정책환류, PSM, 관료적저항, 민군관계)와의 접점
+- 방법론 측면에서 개선·확장 여지
+
+## 관련 개념 노드
+[[개념1]] [[개념2]] [[개념3]]
+```
+
+### 메타분석 논문
+
+저장 위치: `wiki/03_메타분석노트/`
+
+```
+당신은 정책학·행정학 전공 연구자를 위한 문헌 분석 전문 보조자입니다.
+첨부된 논문은 메타분석(Meta-Analysis) 또는 체계적 문헌 고찰(Systematic Review) 논문입니다.
+출력 규칙은 일반 논문과 동일합니다.
+
+---
+tags: [트랙B, 메타분석]
+저장일: YYYY-MM-DD
+---
+
+# {제목 한국어 번역 (원제)}
+
+## 메타데이터
+- 저자: / 연도: / 저널: / DOI:
+- 분석 대상 연구 수(k):
+- 분석 대상 시기:
+
+## 연구 질문
+
+## 포함 기준 및 방법론
+- 문헌 검색 전략:
+- 포함/배제 기준:
+- 효과 크기 지표:
+- 이질성 검토: [I² 등]
+
+## 핵심 발견
+- 전체 효과 크기:
+- 주요 조절변수 효과:
+- 출판 편향 검토 결과:
+
+## 이론적 기여 및 한계
+
+## 핵심 개념 노드
+[[개념1]] [[개념2]]
+
+## 재현·발전 가능성 [AI 분석]
+- 한국 또는 군 조직 맥락에서 유사 메타분석 가능성
+- 연구자의 관심 주제와의 접점
+```
+
+---
+
+## 트랙 B → 트랙 A 합성 프롬프트
+
+개념별 트랙 B 논문 5편 누적 시 실행. 해당 논문 노트 전문을 아래 프롬프트와 함께 웹 AI에 투입.
+
+```
+당신은 정책학·행정학 전공 연구자를 위한 지식 합성 전문 보조자입니다.
+
+아래는 [[{개념명}]]에 관한 논문 분석 노트 {N}편입니다.
+이를 바탕으로 개념 노트의 "트랙B 합성 공간" 섹션 업데이트 내용을 작성해 주세요.
+
+출력 규칙: 한국어, 주요 용어 영문 병기, 개념명 [[이중괄호]], 논문 인용 (저자, 연도), 사실과 AI 추론 구분.
+
+## 트랙B 합성 공간
+*최종 합성일: {날짜} / 반영 논문 수: {N}편*
+
+### 실증 연구 동향
+### 교과서 정의 보완·수정 사항
+### 주요 조절·매개 요인 ([[백링크]] 포함)
+### 한국 맥락에서의 시사점 [AI 분석]
+### 미해결 연구 공백
+
+---
+[논문 노트 {N}편 내용 여기에 붙여넣기]
+```
+
+합성 후 처리:
+- 개념 노트 `트랙B 합성 공간`에 날짜별 누적 (이전 결과 삭제 금지)
+- 반영된 논문 노트에 태그 추가: `tags: [합성완료_{개념명}]`
+
+---
+
+## 논문 추가 절차
+
+### 1단계 — PDF를 구글 드라이브에 저장 후 텍스트 추출
+
+PDF를 `G:\내 드라이브\llm-wiki-papers\{연도}_{저자}_{키워드}.pdf`로 저장.
 
 ```bash
-pip3 install pypdf
-
-python3 -c "
+python -c "
 import pypdf, sys
 reader = pypdf.PdfReader(sys.argv[1])
 text = ''
@@ -86,89 +275,42 @@ for page in reader.pages[:15]:
     if t: text += t + '\n'
     if len(text) > 12000: break
 print(text[:12000])
-" "/path/to/paper.pdf"
+" "G:/내 드라이브/llm-wiki-papers/{파일명}.pdf"
 ```
 
-### Step 2 — Write `sources/{stem}.md`
+### 2단계 — 트랙 B 노트 작성
 
-```yaml
----
-title: "Paper Title"
-authors: Author List
-year: YYYY
-doi: DOI or URL
-category: policy-feedback
-pdf_path: C:/Users/USER/Desktop/llm-wiki/papers/{stem}.pdf
-pdf_filename: {stem}.pdf
-source_collection: external
----
+위의 마스터 프롬프트로 `wiki/02_논문노트/{연도}_{저자}_{키워드}.md` 생성.
 
-## One-line Summary
-## 1. Document Information
-## 2. Key Contributions
-## 3. Theoretical Framework / Methodology
-## 4. Key Arguments and Findings
-## 5. Limitations and Future Work
-## 6. Related Work
-## 7. Glossary
-```
+### 3단계 — `index.md` 업데이트
 
-### Step 3 — Write `wiki/{category}/{stem}.md`
+해당 카테고리 아래 한 줄 추가.
 
-```yaml
----
-title: "Paper Title"
-authors: Author list
-year: YYYY
-doi: DOI or URL
-source: {stem}.md
-category: policy-feedback
-pdf_path: C:/Users/USER/Desktop/llm-wiki/papers/{stem}.pdf
-pdf_filename: {stem}.pdf
-source_collection: external
-tags: []
----
+### 4단계 — 필요 시 트랙 A 개념 노트 신설
 
-## Summary
-## Key Contributions
-## Theoretical Framework / Methodology
-## Key Arguments and Findings
-## Related Papers
-- [[category/page]] — relationship
-```
-
-### Step 4 — Update `index.md`
-
-Add a one-line entry under the right category.
+AI가 새 `[[개념]]`을 제안했으나 파일이 없을 경우:
+- 중요한 개념 → `wiki/01_개념노트/{카테고리}/{개념명}.md` 신설
+- 사소한 개념 → 괄호 제거, 일반 텍스트 처리
 
 ---
 
-## PDF Management Rules
+## PDF 관리 원칙
 
-- **Always copy, never symlink.** `cp` from external locations into `papers/`.
-- `pdf_path` always uses the full path inside `papers/`. Never use `~/Downloads/` or external paths.
-- `pdf_filename` must match `basename(pdf_path)`.
-
-## Knowledge Compounding
-
-The most valuable pages are `wiki/overviews/` — synthesis pages that connect multiple papers. When a question is answered well:
-
-> "Save this as an overview page in `wiki/overviews/`"
-
-Each conversation should produce 5–15 new or updated wiki pages.
-
-## Browsing with Obsidian
-
-Install [Obsidian](https://obsidian.md/) (free) and open `C:\Users\USER\Desktop\llm-wiki` as a Vault. You get graph view, `[[wikilinks]]` navigation, and full-text search. Obsidian only reads files — it does not interfere with the agent.
+- PDF는 `G:\내 드라이브\llm-wiki-papers\`에만 저장. GitHub에 올리지 않음.
+- 연구실·다른 PC에서는 구글 드라이브 데스크톱 앱 설치 시 동일 경로로 접근 가능.
+- 앱 미설치 시: 웹에서 다운로드 후 `Downloads/` 경로를 Claude Code에 직접 전달.
 
 ---
 
-## Design Principles
+## 초기 투입 권장 순서
 
-- **3-tier**: Raw PDF (immutable) → sources/*.md → wiki/**/*.md
-- **English only** in wiki content (RAG-friendly; conversation in Korean is fine)
-- **Obsidian compatible**: `[[wikilinks]]`, plain markdown
-- **Consistent YAML**: every file has title, authors, year, doi, category, pdf_path, pdf_filename, source_collection
-- **No web search**: rule #1 above
+1. 메타분석 논문 우선 (개념 노드 구조 파악)
+2. 이론 논문 → 실증 논문
+3. 세션당 논문 1편씩 처리 (할루시네이션 최소화)
+4. 투입 후 `[[백링크]]` 개념명이 기존 개념 노트 파일명과 일치하는지 확인
 
-When in doubt, follow rule #1.
+---
+
+## Obsidian으로 열기
+
+`C:\Users\USER\Desktop\llm-wiki`를 Obsidian Vault로 열면 백링크 그래프, wikilink 탐색, 전문 검색 사용 가능. Obsidian은 파일을 읽기만 하며 구조를 변경하지 않음.
