@@ -404,6 +404,43 @@ grep -rl "\[\[역사적제도주의\]\]"          wiki/02_논문노트/
 ### 체크 4 — index.md 동기화
 새 논문 노트가 `index.md`에 추가되었는지 확인.
 
+### 체크 5 — 사이트 배포 (publish.ps1 실행) ← 반드시 마지막에
+
+**매 세션 종료 시 아래 명령 1줄로 GitHub + 사이트를 동시 배포한다.**
+
+```powershell
+# llm-wiki 루트에서 실행
+cd C:\Users\USER\Desktop\llm-wiki
+.\publish.ps1 "간략한 변경 내용"
+```
+
+`publish.ps1`이 수행하는 4단계:
+1. `llm-wiki` git add → commit → push (→ `khchoihub/llm-wiki.git`)
+2. `robocopy /MIR` — llm-wiki → llm-wiki-site/content 완전 미러 (삭제 파일도 반영)
+3. `npx quartz build` — 정적 사이트 빌드
+4. `llm-wiki-site` git commit → push → GitHub Pages 자동 배포
+
+> **주의**: `publish.ps1`을 실행하지 않으면 llm-wiki-site/content는 구버전으로 남는다.
+> llm-wiki push ≠ 사이트 업데이트 — 반드시 publish.ps1 실행 필요.
+
+---
+
+## 저장소 관계 구조
+
+```
+C:\...\llm-wiki\          (소스 - 작업 공간)
+   ↓  publish.ps1 실행 시 robocopy /MIR
+C:\...\llm-wiki-site\content\   (Quartz 빌드 입력)
+   ↓  npx quartz build
+C:\...\llm-wiki-site\public\    (정적 파일)
+   ↓  git push origin v5
+GitHub Pages (https://khchoihub.github.io/llm-wiki-site)
+```
+
+**두 저장소는 별개 git repo — 자동 동기화 없음.**
+`llm-wiki`에 커밋해도 사이트는 자동 업데이트되지 않는다.
+`publish.ps1`이 이 간극을 수동으로 메운다.
+
 ---
 
 ## Obsidian으로 열기
