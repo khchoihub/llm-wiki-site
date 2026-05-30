@@ -1,7 +1,9 @@
 ---
-tags: [트랙B, 논문노트]
+tags: [트랙B, 중복파일]
 저장일: 2026-05-30
 ---
+
+> **참조**: 이 파일은 [[1969_Allison_쿠바미사일위기_개념모형]]의 중복입니다. 해당 파일을 사용하세요.
 
 # 개념 모형과 쿠바 미사일 위기 (Conceptual Models and the Cuban Missile Crisis)
 
