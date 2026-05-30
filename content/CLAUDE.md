@@ -331,6 +331,28 @@ wiki/01_개념노트/**/{개념명}.md   ← 이 파일이 존재하는가?
 합리적선택·공유자원                                       → rational-choice/
 ```
 
+**4e. 신설 개념 노트를 index.md 트랙 A에 등록 (건너뛰기 금지)**
+
+개념 노트를 신설하면 **반드시** `index.md`의 트랙 A 해당 섹션에 한 줄을 추가한다.
+
+```
+- [[개념명]] — 핵심 정의 한 줄 (학자·이론·핵심 명제 포함)
+```
+
+| 개념 노트 위치 | index.md 섹션 |
+|---|---|
+| `policy-feedback/` | `### 정책피드백이론 (policy-feedback)` |
+| `policy-process/` | `### 정책과정론 (policy-process)` |
+| `public-administration/` | `### 공공행정학 (public-administration)` |
+| `NPM-governance/` | `### 신공공관리론 / 거버넌스 (NPM-governance)` |
+| `PSM/` | `### 공공서비스동기 (PSM)` |
+| `HRM/` | `### 인사행정 (HRM)` |
+| `organization-theory/` | `### 조직이론 / 신제도주의 (organization-theory)` |
+| `civil-military/` | `### 민군관계 (civil-military)` |
+| `rational-choice/` | `### 합리적선택 / 공유자원 (rational-choice)` |
+
+> **왜 중요한가**: 개념 노트 파일은 만들고 index.md에 등록하지 않으면 존재하지만 보이지 않는 '유령 노트'가 된다. 트랙 A 인덱스는 위키의 목차이자 탐색 기점이다.
+
 **4d. 링크 정규화 원칙 (표준 이름 목록)**
 
 아래 표준 이름을 반드시 사용한다. 괄호·영문 병기 없이.
@@ -415,8 +437,19 @@ grep -rl "\[\[역사적제도주의\]\]"          wiki/02_논문노트/
 ### 체크 3 — 합성 대상 개념 확인
 5편 이상 누적된 개념의 `트랙B 합성 공간`이 채워져 있는지 확인.
 
-### 체크 4 — index.md 동기화
-새 논문 노트가 `index.md`에 추가되었는지 확인.
+### 체크 4 — index.md 동기화 (트랙 A + 트랙 B 모두)
+1. **트랙 B**: 새 논문 노트(02_논문노트·03_메타분석노트·04_방법론)가 `index.md` 해당 섹션에 추가되었는지 확인.
+2. **트랙 A**: 새 개념 노트(01_개념노트)가 `index.md` 트랙 A 해당 섹션에 한 줄 등록되었는지 확인.
+
+```bash
+# 트랙A 미등록 개념노트 탐지: 01_개념노트에 있는 파일명이 index.md에 없으면 누락
+Get-ChildItem wiki\01_개념노트 -Recurse -Filter "*.md" | ForEach-Object {
+    $name = $_.BaseName
+    if (-not (Select-String -Path index.md -Pattern "\[\[$name\]\]" -Quiet)) {
+        Write-Host "누락: $name"
+    }
+}
+```
 
 ### 체크 5 — 사이트 배포 (publish.ps1 실행) ← 반드시 마지막에
 
