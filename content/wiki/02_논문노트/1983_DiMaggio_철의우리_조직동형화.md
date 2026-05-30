@@ -1,9 +1,9 @@
----
+﻿---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 ---
 
-# 철의 우리 재론: 조직 장(場)에서의 제도적 동형화와 집합적 합리성 (The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields)
+# 철의 우리 재론: 조직 장(Organizational Field)에서의 제도적 동형화와 집합적 합리성 (The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields)
 
 ## 메타데이터
 - **저자:** Paul J. DiMaggio, Walter W. Powell
@@ -55,7 +55,7 @@ DiMaggio & Powell(1983)은 [[신제도주의]](New Institutionalism) 조직 연�
 
 ---
 
-## 재현·발전 가능성 [AI 分析]
+## 재현·발전 가능성 [AI 분석]
 
 - **한국 맥락:** 한국 공공기관의 동형화 — 성과관리제도·블라인드 채용 확산 → 어느 유형의 동형화인가
 - **군 조직 접점:** 한국군의 제도 변화(사관학교·ROTC 교육 표준화, 인권교육 도입)에서 강압/모방/규범 동형화 비교 분석
