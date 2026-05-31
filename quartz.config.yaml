@@ -12,12 +12,13 @@ configuration:
     - private
     - templates
     - .obsidian
+    - tools
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Noto Sans KR
+      body: Noto Sans KR
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -154,6 +155,22 @@ plugins:
       priority: 50
   - source: github:quartz-community/graph
     enabled: true
+    options:
+      localGraph:
+        showTags: false
+        focusOnHover: true
+        fontSize: 0.55
+        repelForce: 0.7
+        linkDistance: 45
+        opacityScale: 1.3
+      globalGraph:
+        showTags: false
+        focusOnHover: true
+        fontSize: 0.45
+        repelForce: 0.9
+        linkDistance: 55
+        scale: 1.3
+        opacityScale: 2
     layout:
       position: right
       priority: 10
@@ -209,13 +226,25 @@ plugins:
       priority: 5
       condition: not-index
   - source: github:quartz-community/comments
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: "khchoihub/llm-wiki-site"
+        repoId: "R_kgDOSoaLig"
+        category: "Announcements"
+        categoryId: "DIC_kwDOSoaLis4C-M7s"
+        mapping: pathname
+        strict: false
+        reactionsEnabled: true
+        inputPosition: top
+        lightTheme: light
+        darkTheme: dark
+        lang: ko
     layout:
       position: afterBody
       priority: 10
+      condition: not-index
   - source: github:quartz-community/footer
     enabled: true
     options:

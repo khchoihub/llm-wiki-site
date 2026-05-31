@@ -1,3 +1,51 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// =============================================================
+//  한글 위키 타이포그래피 (llm-wiki 대수선)
+//  - 본문/제목: Noto Sans KR (quartz.config.yaml에서 구글폰트로 로드 → 한글 보장)
+//  - Pretendard는 폴백 이름으로 명시 → 사용자 PC에 설치돼 있으면 우선 사용
+//    (CDN @import는 Quartz 빌드의 CSS 병합 순서상 불가하여 폰트명 폴백으로 처리)
+// =============================================================
+:root {
+  --headerFont: "Pretendard Variable", "Pretendard", "Noto Sans KR", -apple-system,
+    BlinkMacSystemFont, system-ui, sans-serif;
+  --titleFont: "Pretendard Variable", "Pretendard", "Noto Sans KR", -apple-system,
+    BlinkMacSystemFont, system-ui, sans-serif;
+  --bodyFont: "Pretendard Variable", "Pretendard", "Noto Sans KR", -apple-system,
+    BlinkMacSystemFont, system-ui, sans-serif;
+  --codeFont: "IBM Plex Mono", "D2Coding", "Noto Sans KR", ui-monospace, monospace;
+}
+
+// =============================================================
+//  한글 본문 가독성
+// =============================================================
+article {
+  line-height: 1.75;
+
+  // 한글은 어절(공백) 단위로 줄바꿈해야 자연스럽다.
+  // 긴 영문 단어·URL은 break-word로 넘침 방지.
+  p,
+  li,
+  blockquote {
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+
+  // 영문 원제 병기가 많은 제목 — 줄바꿈 허용
+  h1,
+  h2,
+  h3 {
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+}
+
+// 좌측 탐색기·백링크 등 사이드바의 긴 제목 말줄임 처리
+.explorer,
+.backlinks {
+  .clickable-icon ~ * a,
+  li a,
+  .small a {
+    overflow-wrap: anywhere;
+  }
+}
