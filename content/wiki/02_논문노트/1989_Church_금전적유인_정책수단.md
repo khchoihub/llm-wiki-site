@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "금전적유인·정책수단 (Church 1989)"
 ---
 
 # 보이지 않는 손의 검토되지 않은 가정들: 정책 수단으로서의 금전적 유인 (The Underexamined Assumptions of the Invisible Hand: Monetary Incentives as Policy Instruments)

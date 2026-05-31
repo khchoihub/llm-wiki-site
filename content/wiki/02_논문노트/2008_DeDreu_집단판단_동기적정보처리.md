@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "집단판단·동기적정보처리 (DeDreu 2008)"
 ---
 
 # 집단 판단과 의사결정에서 동기적 정보 처리 (Motivated Information Processing in Group Judgment and Decision Making)

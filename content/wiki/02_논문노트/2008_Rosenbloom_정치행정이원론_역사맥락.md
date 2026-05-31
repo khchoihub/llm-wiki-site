@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "정치행정이원론·역사맥락 (Rosenbloom 2008)"
 ---
 
 # 미국 역사 맥락에서의 정치-행정 이원론 (The Politics-Administration Dichotomy in U.S. Historical Context)

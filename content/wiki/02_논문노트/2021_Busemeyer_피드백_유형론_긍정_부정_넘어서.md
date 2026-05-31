@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "피드백·유형론·긍정·부정·넘어서 (Busemeyer 2021)"
 ---
 
 # 긍정·부정을 넘어: 복지국가 여론의 피드백 효과에 대한 새 관점 (Beyond Positive and Negative: New Perspectives on Feedback Effects in Public Opinion on the Welfare State)

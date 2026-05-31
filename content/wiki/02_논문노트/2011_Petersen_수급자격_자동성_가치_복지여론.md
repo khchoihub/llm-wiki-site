@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "수급자격·자동성·가치·복지여론 (Petersen 2011)"
 ---
 
 # 복지여론의 수급자격 vs. 가치: 수급자격 휴리스틱의 자동성 (Deservingness versus Values in Public Opinion on Welfare: The Automaticity of the Deservingness Heuristic)

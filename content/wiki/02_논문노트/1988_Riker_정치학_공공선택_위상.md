@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "정치학·공공선택·위상 (Riker 1988)"
 ---
 
 # 공공선택에서 정치학의 위상 (The Place of Political Science in Public Choice)

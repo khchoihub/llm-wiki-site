@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "실증주의넘어·탈실증주의정책 (Fischer 1998)"
 ---
 
 # 실증주의를 넘어: 탈실증주의 관점의 정책 탐구 (Beyond Empiricism: Policy Inquiry in Postpositivist Perspective)

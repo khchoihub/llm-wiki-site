@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "조직간네트워크효과성 (Provan 1995)"
 ---
 
 # 조직간 네트워크 효과성의 예비 이론: 지역사회 정신보건 시스템 비교 연구 (A Preliminary Theory of Interorganizational Network Effectiveness)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "다양성관리·새접근 (Ivancevich 2000)"
 ---
 
 # 다양성 관리: 새로운 접근법의 시간 (Diversity Management: Time for a New Approach)

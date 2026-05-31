@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
+title: "업무보상·직무만족·이직의도·3부문비교 (Stater 2019)"
 ---
 
 # 그냥 '직업'일 뿐인가? 비영리·영리·공공 부문의 업무 보상이 직무 만족과 이직 의도에 미치는 영향 (Is It "Just Work"? The Impact of Work Rewards on Job Satisfaction and Turnover Intent in the Nonprofit, For-Profit, and Public Sectors)

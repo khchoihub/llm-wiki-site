@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "IAD·SES·프레임워크 (Schlager 2018)"
 ---
 
 # IAD 프레임워크와 SES 프레임워크: 소개와 평가 (The IAD Framework and the SES Framework)

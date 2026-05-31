@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "증거기반정책·영국현대화 (Parsons 2002)"
 ---
 
 # 점증주의에서 점증주의로: 증거기반 정책결정과 영국 정부의 현대화 (From Muddling Through to Muddling Up: Evidence Based Policy Making and the Modernisation of British Government)

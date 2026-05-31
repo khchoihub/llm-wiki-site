@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "모호성관련성 (CohenMarchOlsen 1976)"
 ---
 
 # 사람, 문제, 해결책, 그리고 관련성의 모호성 (People, Problems, Solutions and the Ambiguity of Relevance)

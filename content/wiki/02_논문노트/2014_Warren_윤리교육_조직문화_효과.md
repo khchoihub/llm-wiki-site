@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "윤리교육·조직문화·효과 (Warren 2014)"
 ---
 
 # 공식 윤리 교육은 단지 형식적인가: 윤리 교육과 윤리적 조직 문화 연구 (Is Formal Ethics Training Merely Cosmetic? A Study of Ethics Training and Ethical Organizational Culture)

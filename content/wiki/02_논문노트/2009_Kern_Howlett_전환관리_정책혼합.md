@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "Howlett·전환관리·정책혼합 (Kern 2009)"
 ---
 
 # 전환관리를 정책 개혁으로 실행하기: 네덜란드 에너지 부문 사례 (Implementing Transition Management as Policy Reforms: A Case Study of the Dutch Energy Sector)

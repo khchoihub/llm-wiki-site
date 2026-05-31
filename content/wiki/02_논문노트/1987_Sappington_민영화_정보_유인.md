@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "민영화·정보·유인 (Sappington 1987)"
 ---
 
 # 민영화, 정보와 유인 (Privatization, Information and Incentives)

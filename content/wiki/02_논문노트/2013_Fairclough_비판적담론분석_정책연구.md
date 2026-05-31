@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "비판적담론분석·정책연구 (Fairclough 2013)"
 ---
 
 # 비판적 담론분석과 비판적 정책 연구 (Critical Discourse Analysis and Critical Policy Studies)

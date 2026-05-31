@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "표적집단사회구성 (Ingram 1993)"
 ---
 
 # 표적집단의 사회적 구성 (Social Construction of Target Populations: Implications for Politics and Policy)

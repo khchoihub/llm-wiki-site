@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "사회정책·정치효능감·불평등 (Shore 2020)"
 ---
 
 # 사회정책이 정치적 효능감 불평등에 미치는 영향 (How Social Policy Impacts Inequalities in Political Efficacy)

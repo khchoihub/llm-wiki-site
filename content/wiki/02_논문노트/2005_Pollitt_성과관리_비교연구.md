@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_신공공관리론, 합성완료_성과관리]
 저장일: 2026-05-29
+title: "성과관리·비교연구 (Pollitt 2005)"
 ---
 
 # 실제 성과관리: 집행기관 비교연구 (Performance Management in Practice: A Comparative Study of Executive Agencies)

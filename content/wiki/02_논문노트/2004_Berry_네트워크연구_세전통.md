@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "네트워크연구·세전통 (Berry 2004)"
 ---
 
 # 네트워크 연구의 세 전통: 공공관리 연구 의제가 다른 연구 공동체에서 배울 수 있는 것 (Three Traditions of Network Research: What the Public Management Research Agenda Can Learn from Other Research Communities)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_신공공관리론, 합성완료_행정책임, 합성완료_실적제]
 저장일: 2026-05-29
+title: "공무원개혁·행동영향 (Rubin 2012)"
 ---
 
 # 공무원 개혁이 행동에 영향을 미치는가: 대안적 인사 시스템, 절차적 공정성 인식, 불만 신청 (Does Civil Service Reform Affect Behavior? Linking Alternative Personnel Systems, Perceptions of Procedural Justice, and Complaints)

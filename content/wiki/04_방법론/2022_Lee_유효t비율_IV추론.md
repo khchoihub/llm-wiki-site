@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 방법론, IV]
 저장일: 2026-05-28
+title: "유효t비율·IV추론 (Lee 2022)"
 ---
 
 # IV에 대한 유효 t비율 추론 (Valid t-Ratio Inference for IV)

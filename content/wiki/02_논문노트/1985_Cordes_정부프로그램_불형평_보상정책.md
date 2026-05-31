@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "정부프로그램·불형평·보상정책 (Cordes 1985)"
 ---
 
 # 정부 프로그램이 불형평을 만들 때: 보상 정책 지침 (When Government Programs Create Inequities: A Guide to Compensation Policies)

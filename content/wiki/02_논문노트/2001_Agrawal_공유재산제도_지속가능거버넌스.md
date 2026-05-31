@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "공유재산제도·지속가능거버넌스 (Agrawal 2001)"
 ---
 
 # 공유 재산 제도와 자원의 지속가능 거버넌스 (Common Property Institutions and Sustainable Governance of Resources)

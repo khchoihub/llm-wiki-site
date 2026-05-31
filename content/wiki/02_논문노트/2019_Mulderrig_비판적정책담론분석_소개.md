@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "비판적정책담론분석·소개 (Mulderrig 2019)"
 ---
 
 # 비판적 정책담론분석 소개 (Introducing Critical Policy Discourse Analysis)

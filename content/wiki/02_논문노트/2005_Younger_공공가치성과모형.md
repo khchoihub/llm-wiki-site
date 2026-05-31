@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "공공가치성과모형 (Younger 2005)"
 ---
 
 # Accenture 공공부문 가치 모형 (The Accenture Public Sector Value Model)

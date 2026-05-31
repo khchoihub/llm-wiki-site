@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "정부공급·정부생산실패 (Vining 1990)"
 ---
 
 # 정부 공급과 정부 생산 실패: 경합가능성에 기반한 분석틀 (Government Supply and Government Production Failure: A Framework Based on Contestability)

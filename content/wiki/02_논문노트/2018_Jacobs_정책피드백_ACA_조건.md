@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-27
+title: "정책피드백·ACA·조건 (Jacobs 2018)"
 ---
 
 # 새 정책이 새 정치를 만드는 방식과 조건: ACA의 정책피드백 효과 (When and How New Policy Creates New Politics: Examining the Feedback Effects of the Affordable Care Act on Public Opinion)

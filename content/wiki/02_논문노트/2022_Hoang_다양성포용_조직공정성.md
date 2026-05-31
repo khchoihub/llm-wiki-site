@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "다양성포용·조직공정성 (Hoang 2022)"
 ---
 
 # 숫자 게임을 넘어서: 다양성과 포용이 조직 공정성 인식에 미치는 영향 (Beyond a Numbers Game? Impact of Diversity and Inclusion on the Perception of Organizational Justice)

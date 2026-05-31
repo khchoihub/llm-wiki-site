@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "앨리슨모형·재고찰 (Bendor 1992)"
 ---
 
 # 앨리슨 모형 재고찰 (Rethinking Allison's Models)

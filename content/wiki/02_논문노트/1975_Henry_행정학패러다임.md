@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "행정학패러다임 (Henry 1975)"
 ---
 
 # 행정학의 패러다임 (Paradigms of Public Administration)

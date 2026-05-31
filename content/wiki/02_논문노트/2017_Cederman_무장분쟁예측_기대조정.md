@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "무장분쟁예측·기대조정 (Cederman 2017)"
 ---
 
 # 무장분쟁 예측: 기대치를 조정할 시간인가? (Predicting Armed Conflict: Time to Adjust Our Expectations?)

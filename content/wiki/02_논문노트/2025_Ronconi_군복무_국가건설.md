@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-27
+title: "군복무·국가건설 (Ronconi 2025)"
 ---
 
 # 군 복무를 통한 국가건설 (Nation-Building Through Military Service)

@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "정책집행연구·평가와전망 (OToole 2000)"
 ---
 
 # 정책집행 연구: 평가와 전망 (Research on Policy Implementation: Assessment and Prospects)

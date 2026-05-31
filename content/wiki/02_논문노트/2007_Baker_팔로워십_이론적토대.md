@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "팔로워십·이론적토대 (Baker 2007)"
 ---
 
 # 팔로워십: 현대적 구성개념의 이론적 토대 (Followership: The Theoretical Foundation of a Contemporary Construct)

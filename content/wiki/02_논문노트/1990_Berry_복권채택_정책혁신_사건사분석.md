@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "복권채택·정책혁신·사건사분석 (Berry 1990)"
 ---
 
 # 주 복권 채택과 정책 혁신: 사건사 분석 (State Lottery Adoptions as Policy Innovations: An Event History Analysis)

@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "포퓰리즘태도·정치신뢰·외적효능감 (Geurkink 2019)"
 ---
 
 # 포퓰리즘 태도, 정치 신뢰, 외적 정치효능감: 새 술 낡은 부대인가? (Populist Attitudes, Political Trust, and External Political Efficacy: Old Wine in New Bottles?)

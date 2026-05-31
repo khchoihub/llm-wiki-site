@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
+title: "PSM교육훈련만족·역량성과 (Thaler 2017)"
 ---
 
 # 공공서비스동기 관점에서 본 직원 교육 만족도와 성공 (Satisfaction with and Success of Employee Training from a Public Service Motivation Perspective)

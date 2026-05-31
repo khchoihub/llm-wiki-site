@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "징병·세대간이동성 (Ronconi 2026)"
 ---
 
 # 계급 이동: 징병제와 세대 간 사회이동 (Moving Up the Ranks: Conscription and Intergenerational Mobility)

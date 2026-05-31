@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "대규모사업·낙관편향·전략적허위표현 (Flyvbjerg 2007)"
 ---
 
 # 대규모 인프라 사업의 정책·계획: 문제·원인·해결책 (Policy and Planning for Large-Infrastructure Projects: Problems, Causes, Cures)

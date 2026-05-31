@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "하향식·상향식·집행연구비교 (Sabatier 1986)"
 ---
 
 # 정책집행 연구의 하향식·상향식 접근: 비판적 분석과 합성 제안 (Top-Down and Bottom-Up Approaches to Implementation Research: A Critical Analysis and Suggested Synthesis)

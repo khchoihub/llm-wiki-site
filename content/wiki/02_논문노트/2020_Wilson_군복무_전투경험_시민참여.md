@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "군복무·전투경험·시민참여 (Wilson 2020)"
 ---
 
 # 군 복무, 전투 경험, 시민 참여 (Military Service, Combat Experience, and Civic Participation)

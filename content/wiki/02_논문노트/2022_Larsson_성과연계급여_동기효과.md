@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기, 합성완료_신공공관리론, 합성완료_성과관리]
 저장일: 2026-05-29
+title: "성과연계급여·동기효과 (Larsson 2022)"
 ---
 
 # 스웨덴 공공부문 조직의 성과연계급여의 동기 및 비동기 효과 (Motivating and Demotivating Effects of Performance-Related Pay in Swedish Public Sector Organizations)

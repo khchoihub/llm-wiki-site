@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 방법론, DiD, 매개분석]
 저장일: 2026-05-28
+title: "DiD·직접간접효과·매개분석 (Deuchert 2019)"
 ---
 
 # 이중차분법 기반 직접·간접 효과: 베트남 징병 추첨 정치 선호 적용 (Direct and Indirect Effects Based on Difference-in-Differences with an Application to Political Preferences Following the Vietnam Draft Lottery)

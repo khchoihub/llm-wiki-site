@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "집합행동의논리 (Olson 1971)"
 ---
 
 # 집합행동의 논리: 공공재와 집단이론 (The Logic of Collective Action: Public Goods and the Theory of Groups)

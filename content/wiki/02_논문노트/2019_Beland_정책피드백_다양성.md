@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-27
+title: "정책피드백·다양성 (Beland 2019)"
 ---
 
 # 정책피드백 연구의 다양성: 과거를 돌아보며 앞으로 나아가기 (Varieties of Policy Feedback Research: Looking Backward, Moving Forward)

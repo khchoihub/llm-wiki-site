@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "정책집행연구·발전과전망 (Lester 1987)"
 ---
 
 # 공공정책 집행: 분야의 발전과 미래 연구 의제 (Public Policy Implementation: Evolution of the Field and Agenda for Future Research)

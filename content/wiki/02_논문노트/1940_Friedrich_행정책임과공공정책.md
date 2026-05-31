@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_행정책임]
 저장일: 2026-05-29
+title: "행정책임과공공정책 (Friedrich 1940)"
 ---
 
 # 공공정책과 행정책임의 본질 (Public Policy and the Nature of Administrative Responsibility)

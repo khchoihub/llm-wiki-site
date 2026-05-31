@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "일선재량서사 (MaynardMoody 2000)"
 ---
 
 # 국가 행위자인가 시민 행위자인가: 재량에 관한 두 서사 (State Agent or Citizen Agent: Two Narratives of Discretion)

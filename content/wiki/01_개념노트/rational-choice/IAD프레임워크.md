@@ -1,6 +1,7 @@
 ---
 tags: [트랙A, 개념노트]
 최종수정: 2026-05-30
+title: "IAD프레임워크"
 ---
 
 # IAD 프레임워크 (Institutional Analysis and Development Framework)

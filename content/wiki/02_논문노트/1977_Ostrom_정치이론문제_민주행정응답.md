@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "정치이론문제·민주행정응답 (Ostrom 1977)"
 ---
 
 # 정치이론 방법론 문제: Golembiewski 비판에 대한 응답 (Some Problems in Doing Political Theory: A Response to Golembiewski's "Critique")

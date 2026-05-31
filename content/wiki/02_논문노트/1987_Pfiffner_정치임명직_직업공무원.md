@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_행정책임, 합성완료_실적제]
 저장일: 2026-05-29
+title: "정치임명직·직업공무원 (Pfiffner 1987)"
 ---
 
 # 정치임명직과 직업공무원: 민주주의-관료제 연계 (Political Appointees and Career Executives: The Democracy-Bureaucracy Nexus in the Third Century)

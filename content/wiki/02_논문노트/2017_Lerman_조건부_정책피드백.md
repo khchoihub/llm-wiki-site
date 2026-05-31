@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-27
+title: "조건부·정책피드백 (Lerman 2017)"
 ---
 
 # 개인 경험과 여론: 조건부 정책피드백 이론과 검증 (Personal Experience and Public Opinion: A Theory and Test of Conditional Policy Feedback)

@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "정책피드백·중국경제개혁·반복혁신 (Leutert 2021)"
 ---
 
 # 반복을 통한 혁신: 중국 경제 개혁의 정책피드백 루프 (Innovation through Iteration: Policy Feedback Loops in China's Economic Reform)

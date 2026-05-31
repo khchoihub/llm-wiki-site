@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "정책피드백정치변화 (Pierson 1993)"
 ---
 
 # 원인이 결과가 될 때: 정책피드백과 정치변화 (When Effect Becomes Cause: Policy Feedback and Political Change)

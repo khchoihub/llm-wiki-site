@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "아이디어·제도·정책변화 (Beland 2009)"
 ---
 
 # 아이디어, 제도, 그리고 정책변화 (Ideas, Institutions, and Policy Change)

@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트, 합성완료_관료적저항]
 저장일: 2026-05-27
+title: "정책중심·정치학 (Hacker 2014)"
 ---
 
 # '마스터 이론' 이후: 다운스, 샤트슈나이더, 그리고 정책중심 분석의 부활 (After the "Master Theory": Downs, Schattschneider, and the Rebirth of Policy-Focused Analysis)

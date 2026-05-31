@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 방법론, IV]
 저장일: 2026-05-28
+title: "약한도구변수·IV회귀 (Andrews 2019)"
 ---
 
 # 도구변수 회귀에서의 약한 도구: 이론과 실제 (Weak Instruments in Instrumental Variables Regression: Theory and Practice)

@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "자기약화·피드백·가나·건강보험 (Wireko 2020)"
 ---
 
 # 자기약화적 정책피드백과 가나 국민건강보험 창설 (Self-Undermining Policy Feedback and the Creation of National Health Insurance in Ghana)

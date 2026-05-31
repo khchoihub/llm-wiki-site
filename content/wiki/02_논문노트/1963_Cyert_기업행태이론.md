@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "기업행태이론 (Cyert 1963)"
 ---
 
 # 기업의 행태 이론 (A Behavioral Theory of the Firm)

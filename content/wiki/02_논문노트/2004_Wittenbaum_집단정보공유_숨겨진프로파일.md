@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "집단정보공유·숨겨진프로파일 (Wittenbaum 2004)"
 ---
 
 # 협력적에서 동기적 정보 공유로: 숨겨진 프로파일 패러다임을 넘어 (From Cooperative to Motivated Information Sharing in Groups: Moving Beyond the Hidden Profile Paradigm)

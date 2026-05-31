@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "지역맥락·피드백·보육비·공정성 (Busemeyer 2020)"
 ---
 
 # 지역 맥락의 정책피드백: 독일 보육비 공정성 인식 분석 (Policy Feedback in the Local Context: Analysing Fairness Perceptions of Public Childcare Fees in a German Town)

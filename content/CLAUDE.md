@@ -1,6 +1,10 @@
 ﻿# LLM Wiki — 정책학 (Policy Studies)
 
-개인 연구용 문헌 지식 베이스. 정책피드백이론(Policy Feedback Theory), 공공봉사동기(PSM), 관료적저항(Bureaucratic Resistance), 민군관계(Civil-Military Relations) 중심.
+개인 연구용 문헌 지식 베이스.
+
+**핵심 4축:** 정책피드백이론(Policy Feedback Theory), 공공서비스동기(PSM), 관료적저항(Bureaucratic Resistance), 민군관계(Civil-Military Relations).
+
+**확장축 (실제 누적된 연구 범위):** 정책과정론(의제설정·집행·정책변동·옹호연합·다중흐름), 정책분석·증거기반정책, 공공행정학(행정책임·관료제·정치행정이원론), 신공공관리론·성과관리·거버넌스, 인사행정(실적제·다양성관리), 조직이론·신제도주의, 합리적선택·행동경제학, 비판적담론분석, 연구방법론(도구변수·인과추론). 군인사정책·전쟁법은 카테고리 골격만 마련, 논문 추가 대기.
 
 ---
 

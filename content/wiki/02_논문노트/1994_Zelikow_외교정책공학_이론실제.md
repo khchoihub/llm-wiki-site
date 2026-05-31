@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "외교정책공학·이론실제 (Zelikow 1994)"
 ---
 
 # 외교정책 공학: 이론에서 실천으로, 그리고 다시 (Foreign Policy Engineering: From Theory to Practice and Back Again)

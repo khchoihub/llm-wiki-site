@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "일선관료제·딜레마 (Lipsky 1983)"
 ---
 
 # 일선관료제: 공공서비스에서 개인의 딜레마 (Street-Level Bureaucracy: The Dilemmas of the Individual in Public Service)

@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "행정학연구 (Wilson 1887)"
 ---
 
 # 행정학 연구 (The Study of Administration)

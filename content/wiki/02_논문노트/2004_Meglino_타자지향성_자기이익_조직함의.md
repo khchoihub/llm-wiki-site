@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
+title: "타자지향성·자기이익·조직함의 (Meglino 2004)"
 ---
 
 # 합리적 자기이익을 성향으로 보기: 타자지향성의 조직적 함의 (Considering Rational Self-Interest as a Disposition: Organizational Implications of Other Orientation)

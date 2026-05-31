@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "의무와덕의영역 (Moore 1981)"
 ---
 
 # 의무와 덕의 영역 (Realms of Obligation and Virtue)

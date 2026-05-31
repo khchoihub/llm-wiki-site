@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "기업행태이론·역사적뿌리 (Augier 2007)"
 ---
 
 # 기업행태이론의 역사적 뿌리: GSIA 모델 (Historical Roots of the "A Behavioral Theory of the Firm" Model at GSIA)

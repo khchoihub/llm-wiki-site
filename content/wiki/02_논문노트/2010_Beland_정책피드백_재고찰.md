@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-26
+title: "정책피드백·재고찰 (Beland 2010)"
 ---
 
 # 정책피드백 재고찰: 정책은 어떻게 정치에 영향을 미치는가 (Reconsidering Policy Feedback: How Policies Affect Politics)

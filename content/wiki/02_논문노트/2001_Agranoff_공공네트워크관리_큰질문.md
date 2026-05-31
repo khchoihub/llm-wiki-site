@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "공공네트워크관리·큰질문 (Agranoff 2001)"
 ---
 
 # 공공 네트워크 관리 연구의 큰 질문들 (Big Questions in Public Network Management Research)

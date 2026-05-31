@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "Kahneman·휴리스틱스·불확실성판단 (Tversky 1974)"
 ---
 
 # 불확실성 하의 판단: 휴리스틱스와 편향 (Judgment under Uncertainty: Heuristics and Biases)

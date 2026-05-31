@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "민주행정이론·응답 (Simon 1952)"
 ---
 
 # 민주행정 이론의 발전: 응답과 논평 ("Development of Theory of Democratic Administration": Replies and Comments)

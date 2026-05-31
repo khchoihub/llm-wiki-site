@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "신뢰검증기관거버넌스 (Schillemans 2019)"
 ---
 
 # 신뢰와 검증: 기관 거버넌스에서 대리인이론과 청지기이론의 균형 (Trust and Verification: Balancing Agency and Stewardship Theory in the Governance of Agencies)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
+title: "PSM·공공서비스동기·기초 (Perry 1990)"
 ---
 
 # 공공서비스의 동기적 기초 (The Motivational Bases of Public Service)

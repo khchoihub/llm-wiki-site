@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "조직루틴·유연성변화 (Feldman 2003)"
 ---
 
 # 유연성과 변화의 원천으로서 조직루틴 재개념화 (Reconceptualizing Organizational Routines as a Source of Flexibility and Change)

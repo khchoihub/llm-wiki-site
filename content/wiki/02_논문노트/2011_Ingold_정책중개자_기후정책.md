@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "정책중개자·기후정책 (Ingold 2011)"
 ---
 
 # 정책 중개자를 진지하게 다루기: 기후정책의 증거 (Treating Policy Brokers Seriously: Evidence from the Climate Policy)

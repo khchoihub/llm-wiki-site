@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "공유지의비극 (Hardin 1968)"
 ---
 
 # 공유지의 비극 (The Tragedy of the Commons)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "정치적타당성·정책분석 (Meltsner 1972)"
 ---
 
 # 정치적 타당성과 정책 분석 (Political Feasibility and Policy Analysis)

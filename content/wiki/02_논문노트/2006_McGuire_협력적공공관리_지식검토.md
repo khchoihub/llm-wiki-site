@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "협력적공공관리·지식검토 (McGuire 2006)"
 ---
 
 # 협력적 공공관리: 우리가 아는 것과 아는 방법 평가 (Collaborative Public Management: Assessing What We Know and How We Know It)

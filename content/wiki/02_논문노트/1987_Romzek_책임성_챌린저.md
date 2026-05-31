@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_행정책임, 합성완료_실적제]
 저장일: 2026-05-29
+title: "책임성·챌린저 (Romzek 1987)"
 ---
 
 # 공공부문의 책임성: 챌린저 비극에서의 교훈 (Accountability in the Public Sector: Lessons from the Challenger Tragedy)

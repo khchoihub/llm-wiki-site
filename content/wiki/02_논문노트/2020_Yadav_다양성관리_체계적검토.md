@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "다양성관리·체계적검토 (Yadav 2020)"
 ---
 
 # 다양성 관리: 체계적 검토 (Diversity Management: A Systematic Review)

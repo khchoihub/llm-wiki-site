@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "규제이론·일반화 (Peltzman 1976)"
 ---
 
 # 더 일반적인 규제 이론을 향하여 (Toward a More General Theory of Regulation)

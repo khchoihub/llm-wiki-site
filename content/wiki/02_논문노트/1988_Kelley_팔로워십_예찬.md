@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "팔로워십·예찬 (Kelley 1988)"
 ---
 
 # 팔로워십 예찬 (In Praise of Followers)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "집행연구·통합 (Winter 1990)"
 ---
 
 # 집행연구의 통합 (Integrating Implementation Research)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
+title: "PSM·재직기간·공공서비스행동 (Jensen 2017)"
 ---
 
 # 공공서비스동기와 공공서비스 행동: 재직기간의 조절 효과 검증 (Public Service Motivation and Public Service Behaviors: Testing the Moderating Effect of Tenure)

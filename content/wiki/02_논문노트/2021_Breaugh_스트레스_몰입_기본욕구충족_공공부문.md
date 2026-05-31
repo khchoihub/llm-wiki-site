@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
+title: "스트레스·몰입·기본욕구충족·공공부문 (Breaugh 2021)"
 ---
 
 # 스트레스로 몰입하지 못하는가? 업무 스트레스와 공공부문 몰입 이해에서 기본 욕구 충족의 역할 (Too Stressed To Be Engaged? The Role of Basic Needs Satisfaction in Understanding Work Stress and Public Sector Engagement)

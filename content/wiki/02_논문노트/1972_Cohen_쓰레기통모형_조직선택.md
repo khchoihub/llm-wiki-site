@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "쓰레기통모형·조직선택 (Cohen 1972)"
 ---
 
 # 조직 선택의 쓰레기통 모형 (A Garbage Can Model of Organizational Choice)

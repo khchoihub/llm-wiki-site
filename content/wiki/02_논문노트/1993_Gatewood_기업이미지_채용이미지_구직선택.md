@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "기업이미지·채용이미지·구직선택 (Gatewood 1993)"
 ---
 
 # 기업 이미지, 채용 이미지, 초기 구직 선택 결정 (Corporate Image, Recruitment Image, and Initial Job Choice Decisions)

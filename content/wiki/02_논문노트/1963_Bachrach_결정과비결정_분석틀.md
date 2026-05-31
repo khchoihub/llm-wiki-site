@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "결정과비결정·분석틀 (Bachrach 1963)"
 ---
 
 # 결정과 비결정: 분석 프레임워크 (Decisions and Nondecisions: An Analytical Framework)

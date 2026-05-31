@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "증거기반정책·포기할시간 (French 2019)"
 ---
 
 # 증거기반정책을 포기할 시간인가: 네 가지 답변 (Is It Time to Give Up on Evidence-Based Policy? Four Answers)

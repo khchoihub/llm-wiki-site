@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "CARIN·수급자격·척도개발 (Meuleman 2020)"
 ---
 
 # 복지 수급자격 인식의 측정: CARIN 수급자격 원칙 척도 (Welfare Deservingness Opinions from Heuristic to Measurable Concept: The CARIN Deservingness Principles Scale)

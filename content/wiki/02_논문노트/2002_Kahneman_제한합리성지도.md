@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
+title: "제한합리성지도 (Kahneman 2002)"
 ---
 
 # 제한합리성의 지도: 직관적 판단과 선택에 관한 관점 (Maps of Bounded Rationality: A Perspective on Intuitive Judgment and Choice)

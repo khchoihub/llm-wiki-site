@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기, 합성완료_신공공관리론, 합성완료_성과관리]
 저장일: 2026-05-29
+title: "성과급·숨은비용 (Weibel 2010)"
 ---
 
 # 공공부문의 성과급: 혜택과 (숨은) 비용 (Pay for Performance in the Public Sector—Benefits and (Hidden) Costs)

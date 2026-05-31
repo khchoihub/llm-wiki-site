@@ -8,8 +8,16 @@ $WIKI    = "C:\Users\USER\Desktop\llm-wiki"
 $SITE    = "C:\Users\USER\Desktop\llm-wiki-site"
 $CONTENT = "$SITE\content"
 
-Write-Host "=== [1/4] llm-wiki 커밋 & 푸시 ===" -ForegroundColor Cyan
 Set-Location $WIKI
+Write-Host "=== [0/4] 위키 링크 정합성 점검 (wiki_maintain.py lint) ===" -ForegroundColor Cyan
+if (Get-Command py -ErrorAction SilentlyContinue) {
+    py tools/wiki_maintain.py lint
+} else {
+    Write-Host "  (py 미설치 — 점검 스킵)" -ForegroundColor Gray
+}
+Write-Host ""
+
+Write-Host "=== [1/4] llm-wiki 커밋 & 푸시 ===" -ForegroundColor Cyan
 git add -A
 $status = git status --short
 if ($status) {
@@ -25,7 +33,7 @@ Write-Host "=== [2/4] llm-wiki -> site/content 동기화 (/MIR) ===" -Foreground
 # /MIR: 삭제된 파일도 대상에서 제거 (완전 미러)
 # /XD .git .claude: git 메타데이터 제외
 # /XF *.jsonl: 대화 로그 제외
-robocopy $WIKI $CONTENT /E /MIR /XD ".git" ".claude" /XF "*.jsonl" /NP /NFL /NDL /NJH /NJS /NC /NS | Out-Null
+robocopy $WIKI $CONTENT /E /MIR /XD ".git" ".claude" "tools" /XF "*.jsonl" /NP /NFL /NDL /NJH /NJS /NC /NS | Out-Null
 $rc = $LASTEXITCODE
 if ($rc -le 3) {
     Write-Host "  동기화 완료 (robocopy exit: $rc)" -ForegroundColor Green

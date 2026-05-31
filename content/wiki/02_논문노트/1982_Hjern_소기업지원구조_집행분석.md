@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
+title: "소기업지원구조·집행분석 (Hjern 1982)"
 ---
 
 # 소기업 성장 지원: 지원 구조의 집행 분석 (Helping Small Firms Grow: An Implementation Analysis of Small Firm Assistance Structures)

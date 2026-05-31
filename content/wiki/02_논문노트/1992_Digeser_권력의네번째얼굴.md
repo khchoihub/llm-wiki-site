@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
+title: "권력의네번째얼굴 (Digeser 1992)"
 ---
 
 # 권력의 네 번째 얼굴 (The Fourth Face of Power)

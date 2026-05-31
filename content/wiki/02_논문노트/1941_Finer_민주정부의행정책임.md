@@ -1,6 +1,7 @@
-﻿---
+---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_행정책임]
 저장일: 2026-05-29
+title: "민주정부의행정책임 (Finer 1941)"
 ---
 
 # 민주정부의 행정책임 (Administrative Responsibility in Democratic Government)
