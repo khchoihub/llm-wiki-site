@@ -52,7 +52,10 @@ if ($LASTEXITCODE -ne 0) {
 
 Write-Host ""
 Write-Host "=== [4/4] llm-wiki-site 커밋 & 푸시 ===" -ForegroundColor Cyan
-git add content/ -f 2>&1 | Out-Null
+# git add -A: content/ 뿐 아니라 설정(quartz.config.yaml)·스타일(custom.scss)·워크플로 변경까지 스테이징.
+# (public/·node_modules·.quartz/ 는 .gitignore로 제외) → deploy.yml Action이 소스 빌드 시 설정 변경도 반영.
+# 과거 content/만 add 하여 폰트·그래프 등 설정 변경이 라이브에 누락되던 버그 수정.
+git add -A
 git commit -m "sync: $msg" --allow-empty
 git push origin v5
 Write-Host ""
