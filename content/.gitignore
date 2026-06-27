@@ -1,0 +1,8 @@
+SCIENCEON_KCI_API_PRIVATE_GUIDE.md
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.zip
+ongoing_research/**/raw/
+ongoing_research/**/downloads/
