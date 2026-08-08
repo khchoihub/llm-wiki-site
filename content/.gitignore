@@ -6,3 +6,6 @@ SCIENCEON_KCI_API_PRIVATE_GUIDE.md
 *.zip
 ongoing_research/**/raw/
 ongoing_research/**/downloads/
+tmp/
+outputs/
+tools/__pycache__/

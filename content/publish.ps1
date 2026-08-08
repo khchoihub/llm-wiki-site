@@ -31,9 +31,12 @@ if ($status) {
 Write-Host ""
 Write-Host "=== [2/4] llm-wiki -> site/content 동기화 (/MIR) ===" -ForegroundColor Cyan
 # /MIR: 삭제된 파일도 대상에서 제거 (완전 미러)
-# /XD .git .claude: git 메타데이터 제외
-# /XF *.jsonl: 대화 로그 제외
-robocopy $WIKI $CONTENT /E /MIR /XD ".git" ".claude" "tools" /XF "*.jsonl" /NP /NFL /NDL /NJH /NJS /NC /NS | Out-Null
+# 연구 원문·임시 산출물·도구는 사이트 공개 대상이 아니다.
+# PDF·워크북 등 바이너리는 개별 경로에 있더라도 이중으로 차단한다.
+robocopy $WIKI $CONTENT /E /MIR `
+    /XD ".git" ".claude" "tools" "journal" "tmp" "outputs" `
+    /XF "*.jsonl" "*.pdf" "*.xlsx" "*.docx" "*.pptx" "*.zip" `
+    /NP /NFL /NDL /NJH /NJS /NC /NS | Out-Null
 $rc = $LASTEXITCODE
 if ($rc -le 3) {
     Write-Host "  동기화 완료 (robocopy exit: $rc)" -ForegroundColor Green

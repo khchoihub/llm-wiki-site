@@ -47,6 +47,17 @@ Hermes는 문헌 수집관이다.
 - API 키, 토큰, 비밀 파일 내용 출력
 - PDF 원문 확인 없이 강한 사실 주장
 
+## 3-1. 외부 Deep Research 연동 규칙
+
+사용자가 ChatGPT / Claude / Gemini의 Deep Research 결과를 가져오면, Hermes는 이를 **외부 정찰보고서**로 취급한다.
+
+기본 행동:
+- `00_INBOX/EXTERNAL_DEEP_RESEARCH_REQUEST_TEMPLATE.md`는 외부 의뢰용 템플릿이다.
+- `00_INBOX/HERMES_DEEP_RESEARCH_INGEST_PROTOCOL.md`는 Hermes 후처리용 프로토콜이다.
+- 외부 결과를 받으면 채팅으로만 요약하지 말고, 후보표·초록정리·PDF현황·run log로 변환한다.
+- 외부 결과의 화려한 서술보다 `제목/저자/연도/출처/핵심주장/full text 필요 여부`를 보존하는 것을 우선한다.
+- 허위 또는 불명확한 출처는 `[검증 필요]`로 표시한다.
+
 ## 4. 지금 실행 가능한 작업
 
 우선순위 1:

@@ -51,9 +51,11 @@ llm-wiki/                            ← GitHub 동기화 (.md 파일만)
     │   └── military-personnel-policy/ ← 군인사정책
     ├── 02_논문노트/                  ← 트랙 B: 일반 논문 분석
     ├── 03_메타분석노트/              ← 트랙 B: 메타분석 전용
-    ├── 04_방법론/
+    ├── 04_방법론/                    ← 트랙 A(방법론 개념노트) + 트랙 B(방법론 논문노트) 혼재
     └── 99_미분류/
 ```
+
+> **04_방법론 주의**: 이 폴더는 01_개념노트와 물리적으로 분리돼 있지만, `tags: [트랙A, 개념노트]`가 붙은 방법론 개념노트(예: 도구변수·생존분석·과학철학)가 실제로 들어 있다. index.md 트랙A 등록 확인·dangling link 점검·체크4 스크립트는 반드시 01_개념노트와 04_방법론을 함께 스캔해야 한다.
 
 ---
 
@@ -334,6 +336,7 @@ wiki/01_개념노트/**/{개념명}.md   ← 이 파일이 존재하는가?
 정책과정·정책집행·의제설정·다중흐름모형·옹호연합모형·비판적담론분석·무의사결정 → policy-process/
 정책피드백·경로의존성·잠금효과                              → policy-feedback/
 합리적선택·공유자원                                       → rational-choice/
+연구방법론·통계기법·인과추론·과학철학 등 방법론 개념        → 04_방법론/ (01_개념노트 하위 아님에 주의)
 ```
 
 **4e. 신설 개념 노트를 index.md 트랙 A에 등록 (건너뛰기 금지)**
@@ -355,6 +358,7 @@ wiki/01_개념노트/**/{개념명}.md   ← 이 파일이 존재하는가?
 | `organization-theory/` | `### 조직이론 / 신제도주의 (organization-theory)` |
 | `civil-military/` | `### 민군관계 (civil-military)` |
 | `rational-choice/` | `### 합리적선택 / 공유자원 (rational-choice)` |
+| `04_방법론/` (트랙A만) | `### 사회과학 방법론 / 철학 (04_방법론)` |
 
 > **왜 중요한가**: 개념 노트 파일은 만들고 index.md에 등록하지 않으면 존재하지만 보이지 않는 '유령 노트'가 된다. 트랙 A 인덱스는 위키의 목차이자 탐색 기점이다.
 
@@ -409,6 +413,17 @@ wiki/01_개념노트/**/{개념명}.md   ← 이 파일이 존재하는가?
 
 ---
 
+## 저널 코퍼스 파이프라인 (journal/, tools/, outputs/)
+
+`wiki/`·`ongoing_research/`와는 별개로, 행정학 4대 저널(ARPA·JPART·PAR·PSJ)의 전문(full text)을 대량 수집·분석하는 독립 파이프라인이 존재한다.
+
+- `journal/{저널명}/{저널명} {연도} {호}/`: 호별 원문 PDF와 `_수집대장.md`(제목·저자·DOI·OA여부·확보상태 메타데이터) 저장. PDF는 `.gitignore`의 전역 `*.pdf` 규칙으로 자동 제외되어 git에 올라가지 않는다.
+- `tools/journal_corpus_pipeline.py`, `build_abstract_map.py`, `enrich_abstract_map.py`, `prepare_fulltext_portfolio.py`, `summarize_fulltext_portfolio.py`, `synthesize_research_designs.py`, `print_dossier_project.py`, `render_portfolio_pdf_samples.py`, `render_xlsx_preview.py`: 위 코퍼스에서 초록 지도·전문 포트폴리오·연구설계 후보(dossier)를 생성하는 스크립트 모음. 최신 실행 산출물은 `outputs/journal-*` 하위에 남는다.
+- 이 파이프라인은 **위키 트랙 A/B 워크플로우에 자동 편입되지 않는다.** 여기서 나온 통찰이 논문노트·개념노트로 들어가려면 기존 절차(트랙 B 마스터 프롬프트 → 4단계 개념노트 연결)를 그대로 거쳐야 한다.
+- `journal/`·`outputs/`·`tools/`는 `publish.ps1`의 robocopy 단계에서 사이트 배포 대상에서 제외된다(연구 원본·중간 산출물이므로 공개하지 않음).
+
+---
+
 ## 초기 투입 권장 순서
 
 1. 메타분석 논문 우선 (개념 노드 구조 파악)
@@ -424,10 +439,15 @@ wiki/01_개념노트/**/{개념명}.md   ← 이 파일이 존재하는가?
 
 ### 체크 1 — Dangling Link 탐지
 ```bash
-# 논문 노트의 [[링크]] 중 01_개념노트에 파일이 없는 것 탐지
-grep -ohP '\[\[([^\]]+)\]\]' wiki/02_논문노트/*.md \
-  | sed 's/\[\[\|\]\]//g' | sort -u
-# → 각 이름에 대해 wiki/01_개념노트/**/{이름}.md 존재 여부 확인
+# 주의: 공백 포함 파일명(예: "역사적 제도주의.md")이 있으므로 반드시 -printf '%f\n'로 추출한다.
+# 링크 출처는 02_논문노트·03_메타분석노트·04_방법론(트랙B 논문노트 포함) 전체.
+grep -ohP '\[\[([^\]]+)\]\]' wiki/02_논문노트/*.md wiki/03_메타분석노트/*.md wiki/04_방법론/*.md \
+  | sed 's/\[\[//;s/\]\]//' | sort -u > /tmp/all_links.txt
+# 유효한 링크 대상은 01_개념노트뿐 아니라 04_방법론(트랙A 개념노트 혼재)도 포함해야 한다.
+find wiki/01_개념노트 wiki/04_방법론 wiki/99_미분류 -name '*.md' -printf '%f\n' \
+  | sed 's/\.md$//' | sort -u > /tmp/concept_files.txt
+comm -23 /tmp/all_links.txt /tmp/concept_files.txt
+# → 남은 이름 중 2편 이상의 논문노트에서 참조되는 것만 신설 대상 (4b 기준)
 ```
 
 ### 체크 2 — 링크 이름 정규화 확인
@@ -444,16 +464,14 @@ grep -rl "\[\[역사적제도주의\]\]"          wiki/02_논문노트/
 
 ### 체크 4 — index.md 동기화 (트랙 A + 트랙 B 모두)
 1. **트랙 B**: 새 논문 노트(02_논문노트·03_메타분석노트·04_방법론)가 `wiki/00_INDEX/논문노트_전체목록.md` 해당 섹션에 추가되었는지 확인.
-2. **트랙 A**: 새 개념 노트(01_개념노트)가 `index.md` 트랙 A 해당 섹션에 한 줄 등록되었는지 확인.
+2. **트랙 A**: 새 개념 노트(01_개념노트 **및 04_방법론의 `tags: [트랙A, 개념노트]` 파일**)가 `index.md` 트랙 A 해당 섹션에 한 줄 등록되었는지 확인. **01_개념노트만 스캔하면 04_방법론에 섞인 트랙A 개념노트를 놓친다.**
 
 ```bash
-# 트랙A 미등록 개념노트 탐지: 01_개념노트에 있는 파일명이 index.md에 없으면 누락
-Get-ChildItem wiki\01_개념노트 -Recurse -Filter "*.md" | ForEach-Object {
-    $name = $_.BaseName
-    if (-not (Select-String -Path index.md -Pattern "\[\[$name\]\]" -Quiet)) {
-        Write-Host "누락: $name"
-    }
-}
+# 트랙A 미등록 개념노트 탐지: 01_개념노트 + 04_방법론(트랙A 태그만)에 있는 파일명이 index.md에 없으면 누락
+for f in $(find wiki/01_개념노트 -name '*.md' -printf '%p\n'; grep -lF 'tags: [트랙A, 개념노트]' wiki/04_방법론/*.md 2>/dev/null); do
+  name=$(basename "$f" .md)
+  grep -qF "[[$name]]" index.md || echo "누락: $name"
+done
 ```
 
 ### 체크 5 — 사이트 배포 (publish.ps1 실행) ← 반드시 마지막에
