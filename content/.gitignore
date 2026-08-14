@@ -4,6 +4,7 @@ SCIENCEON_KCI_API_PRIVATE_GUIDE.md
 *.xlsx
 *.pptx
 *.zip
+/journal/
 ongoing_research/**/raw/
 ongoing_research/**/downloads/
 tmp/
