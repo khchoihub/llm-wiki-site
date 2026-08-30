@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "정책피드백의 세대간 전승: 인종폭력의 증거 (Trexler 외 2025)"
+password: "0310"
 ---
 
 # 미국 정책피드백의 세대간 전승: 인종폭력으로부터의 증거 (The Intergenerational Transmission of Policy Feedback in the United States: Evidence From Racial Violence)

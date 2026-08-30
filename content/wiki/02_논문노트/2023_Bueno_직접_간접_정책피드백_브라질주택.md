@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "직접·간접·정책피드백·브라질주택 (Bueno 2023)"
+password: "0310"
 ---
 
 # 공공정책의 직접·간접 정치적 배당 (What You See and What You Get: Direct and Indirect Political Dividends of Public Policies)

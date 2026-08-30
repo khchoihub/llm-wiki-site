@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "사회형평·다양성관리·챕터 (Klingner 2016)"
+password: "0310"
 ---
 
 # 사회형평과 다양성관리 (Social Equity and Diversity Management)

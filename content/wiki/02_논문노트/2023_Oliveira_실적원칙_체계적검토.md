@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_성과관리, 합성완료_실적제]
 저장일: 2026-05-29
 title: "실적원칙·체계적검토 (Oliveira 2023)"
+password: "0310"
 ---
 
 # 실적 원칙과 정부 성과에 대한 증거의 시사점 (What Does the Evidence Tell Us About Merit Principles and Government Performance?)

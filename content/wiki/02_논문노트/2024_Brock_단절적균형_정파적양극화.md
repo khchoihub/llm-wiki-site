@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "단절적균형이론과 정파적 양극화 (Brock & Mallinson 2024)"
+password: "0310"
 ---
 
 # 정체의 측정: 단절적균형이론과 정파적 양극화 (Measuring the Stasis: Punctuated Equilibrium Theory and Partisan Polarization)

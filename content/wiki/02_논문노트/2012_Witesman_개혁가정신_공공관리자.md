@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "개혁가정신·공공관리자 (Witesman 2012)"
+password: "0310"
 ---
 
 # 개혁가의 정신: 공공 관리자들이 어떻게 거버넌스 역량 훈련에 직원 접근성을 부여하는가 (The Reformer's Spirit: How Public Managers Provide Employee Access to Training in Governance Skills)

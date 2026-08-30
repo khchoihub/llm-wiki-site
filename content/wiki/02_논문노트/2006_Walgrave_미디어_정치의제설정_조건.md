@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "미디어·정치의제설정·조건 (Walgrave 2006)"
+password: "0310"
 ---
 
 # 대중 미디어의 정치적 의제설정 권력의 조건성 (The Contingency of the Mass Media's Political Agenda Setting Power)

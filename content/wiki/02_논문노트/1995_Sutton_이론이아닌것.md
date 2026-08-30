@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "이론이아닌것 (Sutton 1995)"
+password: "0310"
 ---
 
 # 이론이 아닌 것 (What Theory Is Not)

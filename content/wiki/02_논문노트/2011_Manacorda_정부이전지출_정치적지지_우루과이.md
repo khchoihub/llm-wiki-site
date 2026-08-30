@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "정부이전지출·정치적지지·우루과이 (Manacorda 2011)"
+password: "0310"
 ---
 
 # 정부 이전 지출과 정치적 지지 (Government Transfers and Political Support)

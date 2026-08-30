@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "기업사회성과·고용주매력 (Albinger 2000)"
+password: "0310"
 ---
 
 # 기업 사회적 성과와 고용주 매력도: 직업 선택 범위가 이 관계를 어떻게 조절하는가 (Corporate Social Performance and Attractiveness as an Employer to Different Job Seeking Populations)

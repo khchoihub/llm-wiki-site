@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "전망이론·위험결정 (Kahneman 1979)"
+password: "0310"
 ---
 
 # 전망이론: 위험 하의 결정 분석 (Prospect Theory: An Analysis of Decision under Risk)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "옹호연합·개념재정립 (Weible 2019)"
+password: "0310"
 ---
 
 # 옹호연합의 개념 재정립 (Sharpening Advocacy Coalitions)

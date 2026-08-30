@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "공공부문조직문화 (Parker 2000)"
+password: "0310"
 ---
 
 # 공공부문의 조직 문화: 6개 조직의 증거 (Organisational Culture in the Public Sector: Evidence from Six Organisations)

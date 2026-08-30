@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_신공공관리론, 합성완료_성과관리, 합성완료_실적제]
 저장일: 2026-05-29
 title: "실적제개혁·임의고용 (Kellough 2006)"
+password: "0310"
 ---
 
 # 공공서비스의 극적 개혁: 임의고용과 새로운 공공 인력 창출 (Dramatic Reform in the Public Service: At-Will Employment and the Creation of a New Public Workforce)

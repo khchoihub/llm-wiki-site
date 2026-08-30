@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 공공행정의 기둥으로서 사회형평 극대화하기: 펜실베이니아 대마초 판매점 인허가 사례 (Maximizing Social Equity as a Pillar of Public Administration: An Examination of Cannabis Dispensary Licensing in Pennsylvania)

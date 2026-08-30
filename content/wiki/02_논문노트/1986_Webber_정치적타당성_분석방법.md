@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "정치적타당성·분석방법 (Webber 1986)"
+password: "0310"
 ---
 
 # 정치적 타당성 분석: 정책 분석에 대한 정치학의 고유한 기여 (Analyzing Political Feasibility: Political Scientists' Unique Contribution to Policy Analysis)

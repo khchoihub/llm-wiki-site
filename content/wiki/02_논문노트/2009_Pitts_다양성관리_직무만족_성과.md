@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "다양성관리·직무만족·성과 (Pitts 2009)"
+password: "0310"
 ---
 
 # 다양성 관리, 직무 만족, 성과: 미국 연방 기관의 증거 (Diversity Management, Job Satisfaction, and Performance: Evidence from U.S. Federal Agencies)

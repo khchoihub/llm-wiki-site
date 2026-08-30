@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "다중흐름모형으로 정책채택-집행 연결하기 (Fowler 2022)"
+password: "0310"
 ---
 
 # 다중흐름모형을 이용해 정책 채택과 집행을 연결하기 (Using the Multiple Streams Framework to Connect Policy Adoption to Implementation)

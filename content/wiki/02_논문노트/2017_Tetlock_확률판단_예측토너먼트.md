@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "확률판단·예측토너먼트 (Tetlock 2017)"
+password: "0310"
 ---
 
 # 예측 토너먼트를 통한 정책 논쟁의 확률 판단 도입 (Bringing Probability Judgments into Policy Debates via Forecasting Tournaments)

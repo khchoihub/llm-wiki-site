@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "조직이론노트 (Gulick 1937)"
+password: "0310"
 ---
 
 # 조직 이론에 관한 노트 (Notes on the Theory of Organization)

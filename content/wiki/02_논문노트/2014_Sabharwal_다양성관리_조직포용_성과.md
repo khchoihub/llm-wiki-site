@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "다양성관리·조직포용·성과 (Sabharwal 2014)"
+password: "0310"
 ---
 
 # 다양성 관리만으로 충분한가: 성과 향상을 위한 조직 포용 (Is Diversity Management Sufficient? Organizational Inclusion to Further Performance)

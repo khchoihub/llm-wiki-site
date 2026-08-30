@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "징병제·감정적·양극화·탈분극 (Weiss 2022)"
+password: "0310"
 ---
 
 # 의무복무가 감정적 양극화를 줄인다: 유럽 징병제 개혁 근거 (Compulsory Military Service Reduces Affective Polarization: Evidence from Conscription Reforms in Europe)

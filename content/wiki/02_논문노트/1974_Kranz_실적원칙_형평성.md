@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_행정책임, 합성완료_실적제]
 저장일: 2026-05-29
 title: "실적원칙·형평성 (Kranz 1974)"
+password: "0310"
 ---
 
 # 실적과 형평성은 양립 가능한가? (Are Merit and Equity Compatible?)

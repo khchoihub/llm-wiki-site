@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "제도화조직·신화의례 (Meyer 1977)"
+password: "0310"
 ---
 
 # 제도화된 조직: 신화와 의례로서의 공식 구조 (Institutionalized Organizations: Formal Structure as Myth and Ceremony)

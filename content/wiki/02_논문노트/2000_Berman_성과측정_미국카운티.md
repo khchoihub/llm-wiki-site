@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_신공공관리론, 합성완료_성과관리]
 저장일: 2026-05-29
 title: "성과측정·미국카운티 (Berman 2000)"
+password: "0310"
 ---
 
 # 미국 카운티의 성과측정: 개혁 역량 (Performance Measurement in U.S. Counties: Capacity for Reform)

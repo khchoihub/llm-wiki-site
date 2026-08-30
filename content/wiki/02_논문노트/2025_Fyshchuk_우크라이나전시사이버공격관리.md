@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 전시 사이버공격 관리: 우크라이나 사례 (Managing Cyberattacks in Wartime: The Case of Ukraine)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "점증주의·과학적혼전 (Lindblom 1959)"
+password: "0310"
 ---
 
 # 혼전의 과학: 점증주의적 정책결정 (The Science of "Muddling Through")

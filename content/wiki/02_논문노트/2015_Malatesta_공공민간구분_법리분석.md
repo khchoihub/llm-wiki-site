@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "공공민간구분·법리분석 (Malatesta 2015)"
+password: "0310"
 ---
 
 # 공공-민간 구분: 국가 행위 원칙에서 공공행정의 통찰 (The Public–Private Distinction: Insights for Public Administration from the State Action Doctrine)

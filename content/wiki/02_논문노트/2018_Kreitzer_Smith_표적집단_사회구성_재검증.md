@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "Smith·표적집단·사회구성·재검증 (Kreitzer 2018)"
+password: "0310"
 ---
 
 # 재현 가능하고 복제 가능한: 정치적으로 유의미한 표적집단의 사회구성에 대한 경험적 평가 (Reproducible and Replicable: An Empirical Assessment of the Social Construction of Politically Relevant Target Groups)

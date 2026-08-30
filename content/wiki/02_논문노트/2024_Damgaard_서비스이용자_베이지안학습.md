@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 공공서비스 이용자의 성과정보 반응: 베이지안 학습인가 동기적 추론인가 (Public Service Users' Responses to Performance Information: Bayesian Learning or Motivated Reasoning?)

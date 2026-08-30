@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "대통령의제·타이밍 (Light 1981)"
+password: "0310"
 ---
 
 # 대통령의 의제: 국내 선택의 타이밍에 관한 노트 (The President's Agenda: Notes on the Timing of Domestic Choice)

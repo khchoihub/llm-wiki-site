@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "Lindblom·정책연구 (하연섭 2014)"
+password: "0310"
 ---
 
 # Charles E. Lindblom의 정책연구: 정치와 시장 사이의 점증주의와 다원주의 (Lindblom's Policy Research: Incrementalism and Pluralism between Politics and Market)

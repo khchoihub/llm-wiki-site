@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_행정책임]
 저장일: 2026-05-29
 title: "대통령리더십·어려움 (Aberbach 1999)"
+password: "0310"
 ---
 
 # 대통령 리더십의 어려운 시간 (Hard Times for Presidential Leadership? And How Would We Know?)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "일선관료의 정책이행 개인행위성 (Winter, Mikkelsen & Skov 2022)"
+password: "0310"
 ---
 
 # 일선관료의 정책개혁 집행에서의 개인 행위성: 정책평가와 자기효능감의 역할 (Individual Agency in Street-Level Bureaucrats' Implementation of Policy Reforms: The Role of Their Policy Evaluation and Self-Efficacy)

@@ -2,6 +2,7 @@
 tags: [트랙B, 방법론, 측정오차, 인과추론]
 저장일: 2026-05-28
 title: "측정오차·인과추론 (Gilbert 2025)"
+password: "0310"
 ---
 
 # 측정이 인과추론에 미치는 영향: 감쇄 편향이 결과 점수 가중치보다 더 중요하다 (How Measurement Affects Causal Inference: Attenuation Bias Is (Usually) More Important Than Outcome Scoring Weights)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "IDF·공중신뢰·안정·변화 (Tiargan 2016)"
+password: "0310"
 ---
 
 # 이스라엘 공중의 IDF 인식: 안정성과 변화 (The Israeli Public's Perception of the IDF: Stability and Change)

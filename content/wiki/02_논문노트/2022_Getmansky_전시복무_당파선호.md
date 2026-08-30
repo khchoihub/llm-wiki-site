@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "전시복무·당파선호 (Getmansky 2022)"
+password: "0310"
 ---
 
 # 전시 군 복무가 당파적 선호에 미치는 영향 (War-Time Military Service Can Affect Partisan Preferences)

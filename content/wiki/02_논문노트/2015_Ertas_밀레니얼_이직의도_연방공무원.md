@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
 title: "밀레니얼·이직의도·연방공무원 (Ertas 2015)"
+password: "0310"
 ---
 
 # 연방 공무원 밀레니얼 세대의 이직 의도와 업무 동기 (Turnover Intentions and Work Motivations of Millennial Employees in Federal Service)

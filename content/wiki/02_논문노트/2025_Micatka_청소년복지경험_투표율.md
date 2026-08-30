@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "청소년기 복지 경험과 성인기 투표 습관 (Micatka 2025)"
+password: "0310"
 ---
 
 # 회피를 학습하다: 청소년기 복지 참여가 성인기 투표 습관에 미치는 장기효과 (Learning to Avoid: The Long-Term Effects of Adolescent Welfare Participation on Voting Habits in Adulthood)

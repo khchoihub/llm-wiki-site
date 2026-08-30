@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "민주행정비판 (Golembiewski 1977)"
+password: "0310"
 ---
 
 # 민주행정과 그 지지 이념에 대한 비판 (A Critique of "Democratic Administration" and Its Supporting Ideation)

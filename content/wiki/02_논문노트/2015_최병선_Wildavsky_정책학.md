@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "Wildavsky·정책학 (최병선 2015)"
+password: "0310"
 ---
 
 # 윌다브스키의 정책학 (Wildavsky's Policy Studies)

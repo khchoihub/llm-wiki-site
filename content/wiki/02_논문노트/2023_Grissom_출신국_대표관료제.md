@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "출신국과 대표관료제 (Grissom, Darling-Aduana & Hall 2023)"
+password: "0310"
 ---
 
 # 출신국과 대표관료제

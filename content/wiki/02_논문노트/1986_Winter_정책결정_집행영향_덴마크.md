@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "정책결정·집행영향·덴마크 (Winter 1986)"
+password: "0310"
 ---
 
 # 정책결정이 집행에 미치는 영향: 덴마크 장애연금 행정 분권화 (How Policy-Making Affects Implementation: The Decentralization of the Danish Disablement Pension Administration)

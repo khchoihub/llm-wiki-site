@@ -2,6 +2,7 @@
 tags: [트랙A, 개념노트]
 최종수정: 2026-08-09
 title: "IAD프레임워크"
+password: "0310"
 ---
 
 # IAD 프레임워크 (Institutional Analysis and Development Framework)

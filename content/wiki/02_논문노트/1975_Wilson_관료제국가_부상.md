@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "관료제국가·부상 (Wilson 1975)"
+password: "0310"
 ---
 
 # 관료제 국가의 부상 (The Rise of the Bureaucratic State)

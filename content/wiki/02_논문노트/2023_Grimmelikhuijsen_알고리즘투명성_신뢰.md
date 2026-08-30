@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 컴퓨터가 왜 안 된다고 하는지 설명하기: 알고리즘 투명성이 자동화된 의사결정의 인지된 신뢰성에 미치는 영향 (Explaining Why the Computer Says No: Algorithmic Transparency Affects the Perceived Trustworthiness of Automated Decision-Making)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "쿠바미사일위기·개념모형 (Allison 1969)"
+password: "0310"
 ---
 
 # 개념 모형과 쿠바 미사일 위기 (Conceptual Models and the Cuban Missile Crisis)

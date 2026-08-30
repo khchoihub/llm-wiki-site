@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 관계적 안정성에서 네트워크 회복탄력성으로: 연례협상형 대 경쟁형 지방채 발행 네트워크 (From Relational Stability to Network Resilience: Annual Negotiated Versus Competitive Municipal Bond-Issuing Networks)

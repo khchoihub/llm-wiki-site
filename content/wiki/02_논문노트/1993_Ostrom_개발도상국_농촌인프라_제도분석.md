@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "개발도상국·농촌인프라·제도분석 (Ostrom 1993)"
+password: "0310"
 ---
 
 # 개발도상국 농촌 인프라 지속을 위한 대안적 제도 배열의 성과 분석 (Analyzing the Performance of Alternative Institutional Arrangements for Sustaining Rural Infrastructure in Developing Countries)

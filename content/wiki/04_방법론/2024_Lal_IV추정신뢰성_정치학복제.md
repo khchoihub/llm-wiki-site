@@ -2,6 +2,7 @@
 tags: [트랙B, 방법론, IV, 복제연구]
 저장일: 2026-05-28
 title: "IV추정신뢰성·정치학복제 (Lal 2024)"
+password: "0310"
 ---
 
 # 정치학 IV 추정치를 얼마나 신뢰해야 하는가? 67편 복제 연구 기반 실천 조언 (How Much Should We Trust Instrumental Variable Estimates in Political Science? Practical Advice Based on 67 Replicated Studies)

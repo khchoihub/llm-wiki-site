@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-19
+password: "0310"
 ---
 
 # 공공급여를 사용하는 데 드는 비용: 급여상환비용 ("It Takes a While to Get Used to": The Costs of Redeeming Public Benefits)

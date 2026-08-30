@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 잃어버린 연결고리: 전자정부에서 디지털 중개자 식별하기 (The Missing Link: Identifying Digital Intermediaries in E-Government)

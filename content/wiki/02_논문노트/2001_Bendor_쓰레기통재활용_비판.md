@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "쓰레기통재활용·비판 (Bendor 2001)"
+password: "0310"
 ---
 
 # 쓰레기통 재활용: 연구 프로그램 평가 (Recycling the Garbage Can: An Assessment of the Research Program)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "경제적유인·공공생활 (Elkin 1985)"
+password: "0310"
 ---
 
 # 경제적 유인의 공공 생활 (The Public Life of Economic Incentives)

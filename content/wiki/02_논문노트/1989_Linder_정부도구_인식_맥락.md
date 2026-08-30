@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "정부도구·인식·맥락 (Linder 1989)"
+password: "0310"
 ---
 
 # 정부의 도구: 인식과 맥락 (Instruments of Government: Perceptions and Contexts)

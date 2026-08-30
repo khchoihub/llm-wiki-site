@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
 title: "정부경력관심감소·MPA학생 (Bright 2015)"
+password: "0310"
 ---
 
 # 공공행정 대학원생의 정부 경력 관심이 왜 감소하는가? (Why Does Interest in Government Careers Decline among Public Affairs Graduate Students?)

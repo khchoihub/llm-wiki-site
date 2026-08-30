@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "기술적대항주의·참여협력·화학무기처리 (Futrell 2003)"
+password: "0310"
 ---
 
 # 기술적 대항주의와 참여적 협력: 미국 화학무기 처리 프로그램 (Technical Adversarialism and Participatory Collaboration in the U.S. Chemical Weapons Disposal Program)

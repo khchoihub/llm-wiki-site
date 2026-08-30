@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "증거기반정책·실재론적합성 (Pawson 2002)"
+password: "0310"
 ---
 
 # 증거기반정책: '실재론적 합성'의 약속 (Evidence-Based Policy: The Promise of 'Realist Synthesis')

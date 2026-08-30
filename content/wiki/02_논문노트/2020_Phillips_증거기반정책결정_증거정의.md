@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "증거기반정책결정·증거정의 (Phillips 2020)"
+password: "0310"
 ---
 
 # 증거기반 정책결정: 증거가 무엇인지 결정하기 (Evidence-Based Policy Making: Determining What Is Evidence)

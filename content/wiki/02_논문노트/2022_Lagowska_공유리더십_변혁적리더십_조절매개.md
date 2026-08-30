@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 일선관료제에서 공유리더십과 변혁적리더십의 결합효과: 교육부문 증거 (Joint Effects of Shared and Transformational Leadership on Performance in Street-Level Bureaucracies: Evidence From the Educational Sector)

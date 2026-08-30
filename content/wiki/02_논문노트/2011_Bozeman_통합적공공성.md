@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "통합적공공성 (Bozeman 2011)"
+password: "0310"
 ---
 
 # 통합적 공공성: 공공관리 전략과 성과를 위한 프레임워크 (Integrative Publicness: A Framework for Public Management Strategy and Performance)

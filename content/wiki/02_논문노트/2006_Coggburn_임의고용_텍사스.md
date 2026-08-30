@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_신공공관리론, 합성완료_행정책임, 합성완료_실적제]
 저장일: 2026-05-29
 title: "임의고용·텍사스 (Coggburn 2006)"
+password: "0310"
 ---
 
 # 정부에서의 임의고용: 텍사스주의 시사점 (At-Will Employment in Government: Insights From the State of Texas)

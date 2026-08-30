@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 제공자 소유형태와 서비스 품질 지표: 스웨덴 요양시설의 증거 (Provider Ownership and Indicators of Service Quality: Evidence From Swedish Residential Care Homes)

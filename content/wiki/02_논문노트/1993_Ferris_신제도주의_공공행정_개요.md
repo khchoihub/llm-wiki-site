@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "신제도주의·공공행정·개요 (Ferris 1993)"
+password: "0310"
 ---
 
 # 신제도주의와 공공행정: 개요 (The New Institutionalism and Public Administration: An Overview)

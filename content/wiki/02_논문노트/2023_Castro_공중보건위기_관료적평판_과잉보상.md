@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 공중보건위기 시의 평판관리: 모든 것이 실패할 때의 과잉보상 (Reputation Management During a Public Health Crisis: Overcompensating When All Else Fails)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 어떤 공공가치가 가장 중요한가? 정치이념과 공공서비스동기를 공공가치 선호와 연결하기 (Which Public Values Are Most Important? Linking Political Ideology and Public Service Motivation to Public Values Preferences)

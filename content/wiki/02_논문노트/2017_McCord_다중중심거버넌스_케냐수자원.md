@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-19
+password: "0310"
 ---
 
 # 케냐 수자원 거버넌스의 다중중심 전환 (Polycentric Transformation in Kenyan Water Governance: A Dynamic Analysis of Institutional and Social-Ecological Change)

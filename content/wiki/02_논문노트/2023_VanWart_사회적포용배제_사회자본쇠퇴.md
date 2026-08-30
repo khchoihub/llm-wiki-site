@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 사회적 포용, 사회적 배제, 그리고 사회붕괴를 막거나 촉진하는 리더의 역할 (Social Inclusion, Social Exclusion, and the Role of Leaders in Avoiding—or Promoting—Societal Collapse)

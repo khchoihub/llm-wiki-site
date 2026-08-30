@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "피드백·비교관점·미국편향 (Busemeyer 2022)"
+password: "0310"
 ---
 
 # 비교 관점의 정책피드백과 정부 반응성: 미국 편향 비판 (Policy Feedback and Government Responsiveness in a Comparative Perspective)

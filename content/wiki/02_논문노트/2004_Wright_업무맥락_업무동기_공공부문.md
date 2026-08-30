@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
 title: "업무맥락·업무동기·공공부문 (Wright 2004)"
+password: "0310"
 ---
 
 # 업무 동기에서 업무 맥락의 역할: 목표 이론과 사회 인지 이론의 공공부문 적용 (The Role of Work Context in Work Motivation: A Public Sector Application of Goal and Social Cognitive Theories)

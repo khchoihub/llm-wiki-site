@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_성과관리]
 저장일: 2026-05-29
 title: "참여적의사결정·직원이직 (Grissom 2012)"
+password: "0310"
 ---
 
 # 참여적 의사결정이 공공 직원 유지에 미치는 영향 재검토: 유능한 관리자의 조절 역할 (Revisiting the Impact of Participative Decision Making on Public Employee Retention: The Moderating Influence of Effective Managers)

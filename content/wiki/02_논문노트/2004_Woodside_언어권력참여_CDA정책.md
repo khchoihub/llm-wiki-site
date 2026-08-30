@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "언어권력참여·CDA정책 (Woodside 2004)"
+password: "0310"
 ---
 
 # 언어, 권력, 참여: 비판적 담론분석으로 공공정책 이해하기 (Language, Power, and Participation: Using Critical Discourse Analysis to Make Sense of Public Policy)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "여성공공관리자·경력 (Bishu 2023)"
+password: "0310"
 ---
 
 # 여성 공공 관리자의 경력: 세대별 여성 공공 관리자의 경력 필요 (Careers of Women Public Managers: Career Needs of Women Public Managers Across Generations)

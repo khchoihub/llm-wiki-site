@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_행정책임]
 저장일: 2026-05-29
 title: "공공행정·큰질문들 (Kirlin 1996)"
+password: "0310"
 ---
 
 # 민주주의에서 공공행정의 큰 질문들 (The Big Questions of Public Administration in a Democracy)

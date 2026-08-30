@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 지방정부의 사이버보안 위협: 사회기술적 관점 (Cybersecurity Threats in Local Government: A Sociotechnical Perspective)

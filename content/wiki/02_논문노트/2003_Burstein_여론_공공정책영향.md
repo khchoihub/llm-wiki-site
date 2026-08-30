@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "여론·공공정책영향 (Burstein 2003)"
+password: "0310"
 ---
 
 # 여론이 공공정책에 미치는 영향: 검토와 연구 의제 (The Impact of Public Opinion on Public Policy: A Review and an Agenda)

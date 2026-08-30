@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "공공민간구분·조직이론 (Perry 1988)"
+password: "0310"
 ---
 
 # 조직이론에서의 공공-민간 구분: 비판과 연구 전략 (The Public-Private Distinction in Organization Theory: A Critique and Research Strategy)

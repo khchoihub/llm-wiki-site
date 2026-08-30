@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "정당이익집단·정책영향 (Burstein 2002)"
+password: "0310"
 ---
 
 # 정치 조직이 공공정책에 미치는 영향 (The Impact of Political Parties, Interest Groups, and Social Movement Organizations on Public Policy)

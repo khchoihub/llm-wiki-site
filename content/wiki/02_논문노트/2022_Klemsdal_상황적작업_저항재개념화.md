@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "상황적 작업: 저항 개념의 재구성 (Klemsdal, Andreassen & Breit 2022)"
+password: "0310"
 ---
 
 # 저항인가 촉진인가? 일선관리자의 상황적 작업이 공공개혁 집행에 기여하는 방식 (Resisting or Facilitating Change? How Street-Level Managers' Situational Work Contributes to the Implementation of Public Reforms)

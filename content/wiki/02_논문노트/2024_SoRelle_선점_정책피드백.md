@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "선점·정책피드백 (SoRelle 2024)"
+password: "0310"
 ---
 
 # 선점의 정책피드백 효과 (The Policy Feedback Effects of Preemption)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 법적 의무화가 시민참여에 미치는 영향 (The Influence of Legal Mandates on Public Participation)

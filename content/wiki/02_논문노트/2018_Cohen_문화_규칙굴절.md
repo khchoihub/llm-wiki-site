@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-19
+password: "0310"
 ---
 
 # 문화가 일선관료의 규칙굴절에 미치는 영향: 이스라엘 비공식 의료지불 (How Culture Affects Street-Level Bureaucrats’ Bending the Rules in the Context of Informal Payments for Health Care: The Israeli Case)

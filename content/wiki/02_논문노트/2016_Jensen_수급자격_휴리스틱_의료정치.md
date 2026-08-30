@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "수급자격·휴리스틱·의료정치 (Jensen 2016)"
+password: "0310"
 ---
 
 # 수급자격 휴리스틱과 의료정치 (The Deservingness Heuristic and the Politics of Health Care)

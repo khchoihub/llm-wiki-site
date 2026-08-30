@@ -2,6 +2,7 @@
 tags: [트랙B, 방법론, 측정, 태도]
 저장일: 2026-05-28
 title: "성향태도·측정도구 (Hepler 2013)"
+password: "0310"
 ---
 
 # 대상 없는 태도: 성향적 태도의 증거, 측정, 결과 (Attitudes without Objects: Evidence for a Dispositional Attitude, its Measurement, and its Consequences)

@@ -2,6 +2,7 @@
 tags: [트랙B, 메타분석]
 저장일: 2026-05-27
 title: "정책피드백·대중효과·계량리뷰 (Larsen 2018)"
+password: "0310"
 ---
 
 # 대중 공중에 대한 정책피드백 효과: 계량적 검토 (Policy Feedback Effects on Mass Publics: A Quantitative Review)

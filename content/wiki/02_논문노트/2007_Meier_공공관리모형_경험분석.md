@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_신공공관리론, 합성완료_성과관리]
 저장일: 2026-05-29
 title: "공공관리모형·경험분석 (Meier 2007)"
+password: "0310"
 ---
 
 # 공공관리 모형화: 관리-성과 연계의 경험 분석 (Modeling Public Management: Empirical Analysis of the Management–Performance Nexus)

@@ -2,6 +2,7 @@
 tags: [트랙B, 방법론, IV]
 저장일: 2026-05-28
 title: "LATE넘어서·ATE추정 (Aronow 2013)"
+password: "0310"
 ---
 
 # LATE를 넘어서: 도구변수로 평균처리효과 추정 (Beyond LATE: Estimation of the Average Treatment Effect with an Instrumental Variable)

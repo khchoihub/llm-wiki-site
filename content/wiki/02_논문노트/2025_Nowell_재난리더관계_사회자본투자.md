@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 약한 유대의 취약성: 재난 시기 지도자 간 사회자본 투자는 성과를 내는가 (The Weakness of Weak Ties: Do Social Capital Investments Among Leaders Pay off During Times of Disaster?)

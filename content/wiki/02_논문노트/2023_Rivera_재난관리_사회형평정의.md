@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 재난관리에서 사회형평 정의하기: 넥서스를 향한 중요한 첫걸음 (Defining Social Equity in Emergency Management: A Critical First Step in the Nexus)

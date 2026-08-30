@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 재난 속의 행정: 교도소·구치소 대비태세에 재난관리 통합하기 (Public Administration in Disasters: Integrating Emergency Management Into Jail and Prison Preparedness)

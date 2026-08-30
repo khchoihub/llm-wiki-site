@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "정책서사의 도덕화 (Schaub, Tosun & Becker 2026)"
+password: "0310"
 ---
 
 # 정책서사에서의 도덕화: 기후변화와 공중보건 정치에서 얻은 통찰 (Moralization in Policy Narratives: Insights From the Politics of Climate Change and Public Health)

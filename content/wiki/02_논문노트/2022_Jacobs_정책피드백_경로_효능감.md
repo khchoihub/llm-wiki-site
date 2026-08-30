@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "정책피드백·경로·효능감 (Jacobs 2022)"
+password: "0310"
 ---
 
 # 정책피드백의 경로: 건강개혁이 정치적 효능감과 참여에 미치는 영향 (The Pathways of Policy Feedback: How Health Reform Influences Political Efficacy and Participation)

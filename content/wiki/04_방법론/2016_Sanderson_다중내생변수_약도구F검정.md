@@ -2,6 +2,7 @@
 tags: [트랙B, 방법론, IV]
 저장일: 2026-05-28
 title: "다중내생변수·약도구F검정 (Sanderson 2016)"
+password: "0310"
 ---
 
 # 다중 내생변수 선형 IV 모형에서의 약한 도구 F검정 (A Weak Instrument F-test in Linear IV Models with Multiple Endogenous Variables)

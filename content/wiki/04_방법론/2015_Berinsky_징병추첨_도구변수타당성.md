@@ -2,6 +2,7 @@
 tags: [트랙B, 방법론, IV, 징병]
 저장일: 2026-05-28
 title: "징병추첨·도구변수타당성 (Berinsky 2015)"
+password: "0310"
 ---
 
 # 징병 추첨 번호의 무작위 처치 사용에 대한 실증적 정당화 (An Empirical Justification for the Use of Draft Lottery Numbers as a Random Treatment in Political Science Research)

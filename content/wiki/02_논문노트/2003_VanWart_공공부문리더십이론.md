@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "공공부문리더십이론 (VanWart 2003)"
+password: "0310"
 ---
 
 # 공공부문 리더십 이론: 평가 (Public-Sector Leadership Theory: An Assessment)

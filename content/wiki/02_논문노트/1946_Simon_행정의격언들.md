@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "행정의격언들 (Simon 1946)"
+password: "0310"
 ---
 
 # 행정의 격언들 (The Proverbs of Administration)

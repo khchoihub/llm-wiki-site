@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 부문편향과 성과정보의 신뢰도: 노인요양 제공에 관한 실험연구 (Sector Bias and the Credibility of Performance Information: An Experimental Study of Elder Care Provision)

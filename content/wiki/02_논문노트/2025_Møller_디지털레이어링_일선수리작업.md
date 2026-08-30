@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 디지털국가 내부에서: 디지털 레이어링 맥락에서의 일선업무 (Inside the Digital State: Frontline Work in the Context of Digital Layering)

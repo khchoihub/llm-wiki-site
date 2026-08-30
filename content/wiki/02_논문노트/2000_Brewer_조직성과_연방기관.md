@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기, 합성완료_성과관리]
 저장일: 2026-05-29
 title: "조직성과·연방기관 (Brewer 2000)"
+password: "0310"
 ---
 
 # 코끼리는 왜 빨리 달리는가: 연방기관 성과 평가 (Why Elephants Gallop: Assessing and Predicting Organizational Performance in Federal Agencies)

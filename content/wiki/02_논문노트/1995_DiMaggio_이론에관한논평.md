@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "이론에관한논평 (DiMaggio 1995)"
+password: "0310"
 ---
 
 # '이론이 아닌 것'에 대한 논평 (Comments on "What Theory Is Not")

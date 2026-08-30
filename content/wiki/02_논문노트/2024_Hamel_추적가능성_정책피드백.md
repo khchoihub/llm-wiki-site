@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "추적가능성·정책피드백 (Hamel 2024)"
+password: "0310"
 ---
 
 # 추적가능성과 대중 정책피드백 효과 (Traceability and Mass Policy Feedback Effects)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "Tversky·행동경제학 (Laibson 1998)"
+password: "0310"
 ---
 
 # Amos Tversky와 행동경제학의 부상 (Amos Tversky and the Ascent of Behavioral Economics)

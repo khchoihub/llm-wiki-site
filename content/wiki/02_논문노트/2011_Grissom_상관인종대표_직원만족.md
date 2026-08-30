@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "상관인종대표·직원만족 (Grissom 2011)"
+password: "0310"
 ---
 
 # 나와 같은 상관: 인종, 대표성, 공공부문 직원의 만족도와 이직 결정 (A Supervisor Like Me: Race, Representation, and the Satisfaction and Turnover Decisions of Public Sector Employees)

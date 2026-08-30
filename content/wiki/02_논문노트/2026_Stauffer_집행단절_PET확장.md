@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "집행 단절: PET의 정책집행 확장 (Stauffer 2026)"
+password: "0310"
 ---
 
 # 집행 단절: 단절적균형이론에서 피드백·서사·집행의 역할 (Implementation Punctuation: The Role of Feedback, Narratives, and Implementation in the Punctuated Equilibrium Theory)

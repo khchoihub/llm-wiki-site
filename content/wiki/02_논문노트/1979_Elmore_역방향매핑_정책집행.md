@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "역방향매핑·정책집행 (Elmore 1979)"
+password: "0310"
 ---
 
 # 역방향 매핑: 집행 연구와 정책 결정 (Backward Mapping: Implementation Research and Policy Decisions)

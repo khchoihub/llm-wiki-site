@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_공공서비스동기]
 저장일: 2026-05-28
 title: "공공부문·동기·문헌검토·개념모형 (Wright 2001)"
+password: "0310"
 ---
 
 # 공공부문 업무 동기: 문헌 검토와 수정된 개념 모형 (Public-Sector Work Motivation: A Review of the Current Literature and a Revised Conceptual Model)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 심리적 비용의 완화: 시민의 행정소양과 사회자본의 역할 (Mitigating Psychological Costs—The Role of Citizens' Administrative Literacy and Social Capital)

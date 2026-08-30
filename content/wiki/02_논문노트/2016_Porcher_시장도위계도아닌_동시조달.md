@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "시장도위계도아닌·동시조달 (Porcher 2016)"
+password: "0310"
 ---
 
 # 시장도 위계도 아닌: 수도 공공 서비스의 동시 조달 (Neither Market Nor Hierarchy: Concurrent Sourcing in Water Public Services)

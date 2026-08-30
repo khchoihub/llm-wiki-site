@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "민주행정이론발전 (Waldo 1952)"
+password: "0310"
 ---
 
 # 민주행정 이론의 발전 (Development of Theory of Democratic Administration)

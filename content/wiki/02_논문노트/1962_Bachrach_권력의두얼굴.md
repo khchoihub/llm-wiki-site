@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "권력의두얼굴 (Bachrach 1962)"
+password: "0310"
 ---
 
 # 권력의 두 얼굴 (Two Faces of Power)

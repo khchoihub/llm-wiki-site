@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "데이터예측·과학의과학 (Clauset 2017)"
+password: "0310"
 ---
 
 # 과학의 과학에서 데이터 기반 예측 (Data-Driven Predictions in the Science of Science)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "전망이론·이란인질구출작전 (McDermott 1992)"
+password: "0310"
 ---
 
 # 국제관계에서의 전망이론: 이란 인질 구출 작전 (Prospect Theory in International Relations: The Iranian Hostage Rescue Mission)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "좋은과학·나쁜규제·독성위험 (Latin 1988)"
+password: "0310"
 ---
 
 # 좋은 과학, 나쁜 규제, 독성 위험 평가 (Good Science, Bad Regulation, and Toxic Risk Assessment)

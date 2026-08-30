@@ -2,6 +2,7 @@
 tags: [트랙B, 방법론, IV, 부분식별]
 저장일: 2026-05-28
 title: "IV인과효과·식별외삽 (Mogstad 2018)"
+password: "0310"
 ---
 
 # 도구변수를 통한 인과효과의 식별과 외삽 (Identification and Extrapolation of Causal Effects with Instrumental Variables)

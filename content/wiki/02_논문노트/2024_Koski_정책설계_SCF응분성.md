@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "정책설계 수용성과 대상집단 (Koski & Manson 2024)"
+password: "0310"
 ---
 
 # 정책설계 수용성과 대상집단: 기후변화 정책에 대한 사회적 구성 프레임워크 접근 (Policy Design Receptivity and Target Populations: A Social Construction Framework Approach to Climate Change Policy)

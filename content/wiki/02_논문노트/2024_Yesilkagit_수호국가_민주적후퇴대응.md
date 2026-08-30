@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 수호국가: 민주적 후퇴에 맞서 공직을 강화하기 (The Guardian State: Strengthening the Public Service Against Democratic Backsliding)

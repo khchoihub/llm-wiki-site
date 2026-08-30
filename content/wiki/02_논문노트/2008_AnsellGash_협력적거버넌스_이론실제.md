@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "협력적거버넌스·이론실제 (AnsellGash 2008)"
+password: "0310"
 ---
 
 # 이론과 실천에서의 협력적 거버넌스 (Collaborative Governance in Theory and Practice)

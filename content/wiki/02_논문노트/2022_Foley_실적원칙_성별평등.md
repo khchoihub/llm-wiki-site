@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트, 합성완료_행정책임, 합성완료_실적제]
 저장일: 2026-05-29
 title: "실적원칙·성별평등 (Foley 2022)"
+password: "0310"
 ---
 
 # 최선의 인물인가 최선의 조합인가: 공공부문 관리자들의 실적 원칙 이해 (Best Person or Best Mix? How Public Sector Managers Understand the Merit Principle)

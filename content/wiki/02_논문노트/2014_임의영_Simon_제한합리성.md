@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "Simon·제한합리성 (임의영 2014)"
+password: "0310"
 ---
 
 # H. A. Simon의 제한된 합리성과 행정학 (H. A. Simon's Bounded Rationality and Public Administration)

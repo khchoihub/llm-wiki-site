@@ -25,6 +25,19 @@
 
 ---
 
+## 사이트 접근 제한 (2026-08-30 적용)
+
+`llm-wiki-site`(공개 GitHub Pages)는 검색엔진·일반 접근이 차단되어 있다.
+
+- **robots.txt**: 저장소 루트 `robots.txt`(`Disallow: /`)가 `publish.ps1`의 robocopy로 `content/robots.txt`에 미러링되어 사이트 루트에 배포됨. 모든 페이지에 `<meta name="robots" content="noindex, nofollow">`도 추가됨(`llm-wiki-site/quartz/components/Head.tsx`).
+- **본문 암호화**: `wiki/` 전체(+ `index.md`) 모든 `.md`의 frontmatter에 `password: "0310"`이 있어야 Quartz의 `encrypted-pages` 플러그인이 빌드 시 AES-256-GCM으로 본문을 암호화한다. 비밀번호 없는 노트는 **평문 공개**되므로, 위 트랙 A/B 템플릿의 `password: "0310"` 줄을 절대 빠뜨리지 않는다.
+- **새 노트 작성 시**: 이 문서의 트랙 A/B 프론트매터 템플릿에 이미 `password: "0310"`이 포함되어 있다 — 그대로 사용하면 자동 적용됨. 웹 AI(Claude/Gemini) 결과를 붙여넣을 때도 frontmatter에 이 줄이 있는지 반드시 확인.
+- **비밀번호는 소스가 아니라 사이트만 잠근다**: `llm-wiki`(소스) 저장소는 비공개라 frontmatter 평문 비밀번호가 노출되지 않음. 공개되는 건 `llm-wiki-site`의 빌드 산출물(암호문)뿐.
+- **세션 캐시**: 비밀번호는 브라우저 `sessionStorage`에 저장되어 같은 세션 내 페이지 이동 시 재입력 불필요. 브라우저를 새로 열면 다시 1회 입력.
+- **비밀번호 변경 시**: 594개 파일 전체 frontmatter 일괄 치환 필요 — `password: "0310"` 문자열을 새 값으로 sed/스크립트 치환 후 `publish.ps1` 재실행.
+
+---
+
 ## 저장소 구조
 
 ```
@@ -111,6 +124,7 @@ wiki/01_개념노트/                 wiki/02_논문노트/
 ---
 tags: [트랙A, 개념노트]
 최종수정: YYYY-MM-DD
+password: "0310"
 ---
 
 # {개념명(영문)}
@@ -157,6 +171,7 @@ tags: [트랙A, 개념노트]
 ---
 tags: [트랙B, 논문노트]
 저장일: YYYY-MM-DD
+password: "0310"
 ---
 
 # {논문 제목 한국어 번역 (원제)}
@@ -209,6 +224,7 @@ tags: [트랙B, 논문노트]
 ---
 tags: [트랙B, 메타분석]
 저장일: YYYY-MM-DD
+password: "0310"
 ---
 
 # {제목 한국어 번역 (원제)}

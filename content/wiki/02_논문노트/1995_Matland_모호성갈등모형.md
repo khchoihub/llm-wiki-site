@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "모호성갈등모형 (Matland 1995)"
+password: "0310"
 ---
 
 # 집행 문헌의 합성: 모호성-갈등 모형 (Synthesizing the Implementation Literature: The Ambiguity-Conflict Model)

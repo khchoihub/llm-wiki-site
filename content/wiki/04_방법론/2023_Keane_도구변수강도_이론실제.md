@@ -2,6 +2,7 @@
 tags: [트랙B, 방법론, IV]
 저장일: 2026-05-28
 title: "도구변수강도·이론실제 (Keane 2023)"
+password: "0310"
 ---
 
 # 도구변수 추정·추론의 도구 강도: 이론과 실제 안내 (Instrument Strength in IV Estimation and Inference: A Guide to Theory and Practice)

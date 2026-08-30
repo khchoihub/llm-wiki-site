@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "직접시민참여·공론화 (Roberts 2004)"
+password: "0310"
 ---
 
 # 직접 시민 참여 시대의 공공 숙의 (Public Deliberation in an Age of Direct Citizen Participation)

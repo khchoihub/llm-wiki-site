@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "인과이야기·정책의제형성 (Stone 1989)"
+password: "0310"
 ---
 
 # 인과 이야기와 정책의제 형성 (Causal Stories and the Formation of Policy Agendas)

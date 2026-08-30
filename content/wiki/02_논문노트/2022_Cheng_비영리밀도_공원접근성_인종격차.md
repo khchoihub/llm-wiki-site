@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 비영리 밀도와 공공서비스 제공의 분배적 형평성: 미국 도시 공원접근성의 인종·민족 격차 (Nonprofit Density and Distributional Equity in Public Service Provision: Exploring Racial/Ethnic Disparities in Public Park Access Across U.S. Cities)

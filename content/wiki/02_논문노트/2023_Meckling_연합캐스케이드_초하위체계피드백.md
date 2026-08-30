@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "연합 캐스케이드와 초하위체계 정책피드백 (Meckling & Goedeking 2023)"
+password: "0310"
 ---
 
 # 연합 캐스케이드: 청정에너지 전환에서 티핑포인트의 정치 (Coalition Cascades: The Politics of Tipping Points in Clean Energy Transitions)

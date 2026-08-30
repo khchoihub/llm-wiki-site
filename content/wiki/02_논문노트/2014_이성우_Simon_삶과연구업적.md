@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "Simon·삶과연구업적 (이성우 2014)"
+password: "0310"
 ---
 
 # Simon의 삶과 연구업적: 정책학적 관점에서 (H. A. Simon's Life and Academic Achievements: A Policy Studies Perspective)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "이익집단·의제설정 (ChaquesBonafont 2016)"
+password: "0310"
 ---
 
 # 이익집단과 의제설정 (Interest Groups and Agenda Setting)

@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "변혁적리더십PSM (Paarlberg 2010)"
+password: "0310"
 ---
 
 # 변혁적 리더십과 공공서비스동기: 개인 및 조직 성과 제고 (Transformational Leadership and Public Service Motivation: Driving Individual and Organizational Performance)

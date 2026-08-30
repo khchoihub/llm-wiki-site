@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "효과적집행·조건 (Sabatier 1979)"
+password: "0310"
 ---
 
 # 효과적 집행의 조건: 정책 목표 달성을 위한 지침 (The Conditions of Effective Implementation: A Guide to Accomplishing Policy Objectives)

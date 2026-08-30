@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "인간행동예측·머신러닝 (Subrahmanian 2017)"
+password: "0310"
 ---
 
 # 인간 행동 예측: 다음 프론티어 (Predicting Human Behavior: The Next Frontiers)

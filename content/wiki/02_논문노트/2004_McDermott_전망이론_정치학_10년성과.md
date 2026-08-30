@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "전망이론·정치학·10년성과 (McDermott 2004)"
+password: "0310"
 ---
 
 # 정치학에서의 전망이론: 첫 10년의 성과와 손실 (Prospect Theory in Political Science: Gains and Losses from the First Decade)

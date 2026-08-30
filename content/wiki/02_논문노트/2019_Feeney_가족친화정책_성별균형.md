@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "가족친화정책·성별균형 (Feeney 2019)"
+password: "0310"
 ---
 
 # 가족친화정책, 성별, 공공부문의 일-생활 균형 (Family-Friendly Policies, Gender, and Work–Life Balance in the Public Sector)

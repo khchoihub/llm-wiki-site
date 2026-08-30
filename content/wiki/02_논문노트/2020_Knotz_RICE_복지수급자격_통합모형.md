@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-28
 title: "RICE·복지수급자격·통합모형 (Knotz 2020)"
+password: "0310"
 ---
 
 # RICE: 복지 수급자격 인식의 통합 모형 (R.I.C.E. – An Integrated Model of Welfare Deservingness Perceptions)

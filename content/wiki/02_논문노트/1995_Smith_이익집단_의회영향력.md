@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "이익집단·의회영향력 (Smith 1995)"
+password: "0310"
 ---
 
 # 미국 의회에서의 이익집단 영향력 (Interest Group Influence in the U.S. Congress)

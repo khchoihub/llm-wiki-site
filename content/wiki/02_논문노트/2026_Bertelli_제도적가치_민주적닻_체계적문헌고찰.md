@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 민주주의에 제도적 가치를 정박시키기: 체계적 문헌고찰, 건설적 비판, 연구의제 (Anchoring Institutional Values in Democracy: A Systematic Review, a Constructive Critique, and a Research Agenda)

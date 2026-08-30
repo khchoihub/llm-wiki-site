@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "입법투표·모형 (Kingdon 1977)"
+password: "0310"
 ---
 
 # 입법 투표 모형들 (Models of Legislative Voting)

@@ -2,6 +2,7 @@
 tags: [트랙B, 방법론, IV, Stata]
 저장일: 2026-05-28
 title: "다중내생변수·약도구검정·Stata (Zhou 2026)"
+password: "0310"
 ---
 
 # 다중 내생변수 약한 도구 강건 검정 Stata 구현 (A Robust Test for Weak Instruments with Multiple Endogenous Regressors in Stata)

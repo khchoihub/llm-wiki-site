@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "철의우리·조직동형화 (DiMaggio 1983)"
+password: "0310"
 ---
 
 # 철의 우리 재론: 조직 장(Organizational Field)에서의 제도적 동형화와 집합적 합리성 (The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality in Organizational Fields)

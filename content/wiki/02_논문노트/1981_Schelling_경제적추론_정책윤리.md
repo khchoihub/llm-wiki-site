@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-29
 title: "경제적추론·정책윤리 (Schelling 1981)"
+password: "0310"
 ---
 
 # 경제적 추론과 정책의 윤리 (Economic Reasoning and the Ethics of Policy)

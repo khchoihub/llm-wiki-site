@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 그녀는 여기에 속하는가? 젠더화된 제도에서 여성 리더십과 조직성과 (Does She Belong Here? Women in Leadership Positions and Organizational Performance in Gendered Institutions)

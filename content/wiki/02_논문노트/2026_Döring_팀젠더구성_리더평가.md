@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 팀 젠더 구성과 여성·남성 리더 평가의 상관관계: 집단 프로토타입성의 역할 (Team Gender Composition Correlates With Ratings of Women and Men Leaders: On the Role of Group Prototypicality)

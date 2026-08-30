@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
+password: "0310"
 ---
 
 # 일선의 관점에서 본 복지시장의 다양성: 독일과 이스라엘의 장기요양서비스 비교 (Varieties of Welfare Markets From a Street-Level Perspective: Comparing Long-Term Care Services in Germany and Israel)

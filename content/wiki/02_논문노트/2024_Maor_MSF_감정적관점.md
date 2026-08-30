@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-08-09
 title: "다중흐름모형의 감정적 관점 (Maor 2024)"
+password: "0310"
 ---
 
 # 다중흐름모형에 대한 감정적 관점 (An Emotional Perspective on the Multiple Streams Framework)

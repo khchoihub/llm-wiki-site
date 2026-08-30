@@ -2,6 +2,7 @@
 tags: [트랙B, 논문노트]
 저장일: 2026-05-30
 title: "과학적관리론 (Taylor 1912)"
+password: "0310"
 ---
 
 # 과학적 관리론 (Scientific Management)
