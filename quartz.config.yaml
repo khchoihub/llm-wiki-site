@@ -12,6 +12,10 @@ configuration:
     - private
     - templates
     - .obsidian
+    - CLAUDE.md
+    - AGENTS.md
+    - publish.ps1
+    - SCIENCEON_KCI_API_PRIVATE_GUIDE.md
     - tools
   theme:
     fontOrigin: googleFonts

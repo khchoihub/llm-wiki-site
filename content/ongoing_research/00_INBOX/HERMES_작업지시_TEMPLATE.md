@@ -2,6 +2,7 @@
 tags: [Hermes작업지시, 진행중연구]
 작성일: YYYY-MM-DD
 상태: 대기
+password: "0310"
 ---
 
 # Hermes 작업 지시: {주제}

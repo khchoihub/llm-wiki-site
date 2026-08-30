@@ -1,3 +1,7 @@
+---
+password: "0310"
+---
+
 # PDF 확보 현황
 
 이 폴더에는 PDF 원본을 저장하지 않는다. PDF 원본은 Google Drive PDF 폴더에 둔다.

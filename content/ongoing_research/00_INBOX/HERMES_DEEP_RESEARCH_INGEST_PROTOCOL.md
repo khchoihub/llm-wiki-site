@@ -2,6 +2,7 @@
 tags: [deep-research, hermes, 후처리, 축적, 템플릿]
 작성일: 2026-06-28
 상태: 사용가능
+password: "0310"
 ---
 
 # Hermes Deep Research 후처리 프로토콜

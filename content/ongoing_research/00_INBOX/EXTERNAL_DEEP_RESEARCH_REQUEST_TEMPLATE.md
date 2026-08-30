@@ -2,6 +2,7 @@
 tags: [deep-research, 외부의뢰, 리터러쳐리뷰, 템플릿]
 작성일: 2026-06-28
 상태: 사용가능
+password: "0310"
 ---
 
 # 외부 Deep Research 의뢰 템플릿
