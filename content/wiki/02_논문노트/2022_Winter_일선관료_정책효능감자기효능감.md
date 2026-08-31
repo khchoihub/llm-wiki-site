@@ -1,5 +1,5 @@
 ---
-tags: [트랙B, 논문노트]
+tags: [트랙B, 논문노트, 합성완료_일선관료]
 저장일: 2026-08-09
 title: "일선관료의 정책이행 개인행위성 (Winter, Mikkelsen & Skov 2022)"
 password: "0310"

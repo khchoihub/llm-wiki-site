@@ -1,5 +1,5 @@
 ---
-tags: [트랙B, 논문노트]
+tags: [트랙B, 논문노트, 합성완료_일선관료]
 저장일: 2026-08-09
 title: "상황적 작업: 저항 개념의 재구성 (Klemsdal, Andreassen & Breit 2022)"
 password: "0310"
