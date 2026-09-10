@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_대표관료제, 합성완료_거버넌스]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 비공식 조세, 공동생산, 정치적 젠더 편향: 여성 촌장에 대한 유권자 편향 이론 (Informal Taxation, Co-Production and Political Gender Bias: A Theory of Voter Bias Against Women Village Leaders)

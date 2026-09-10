@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_거버넌스]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 난민 네트워크, 협력, 자원 접근 (Refugee Networks, Cooperation, and Resource Access)

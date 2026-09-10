@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_정책피드백]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 정보확산, 경쟁압력, 선거 사이 정치인 성과: 우간다 현장실험 (Information Dissemination, Competitive Pressure, and Politician Performance between Elections: A Field Experiment in Uganda)

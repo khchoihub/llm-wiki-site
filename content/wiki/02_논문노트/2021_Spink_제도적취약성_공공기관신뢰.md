@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_행정부담, 합성완료_일선관료, 합성완료_거버넌스]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 제도적 취약성과 공공기관 신뢰: 거리 양편에서 본 시각 (Institutional Vulnerability and Trust in Public Agencies: Views from Both Sides of the Street)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_대표관료제, 합성완료_관료제]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 경찰 신뢰 회복하기: 왜 여성 경찰관이 부패 의심을 낮추는가 (Restoring Trust in the Police: Why Female Officers Reduce Suspicions of Corruption)

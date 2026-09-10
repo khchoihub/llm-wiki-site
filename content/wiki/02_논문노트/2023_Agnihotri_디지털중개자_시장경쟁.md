@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_행정부담, 합성완료_관료제, 합성완료_신공공관리론]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 디지털 중개자, 시장경쟁, 시민-국가 상호작용 (Digital Intermediaries, Market Competition, and Citizen-State Interactions)

@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_정책피드백]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 위험, 불평등, 중국 사회보험개혁 지지 (Risk, Inequality, and Support for Social Insurance Reform in China)

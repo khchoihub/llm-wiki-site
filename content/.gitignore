@@ -1,12 +1,6 @@
-SCIENCEON_KCI_API_PRIVATE_GUIDE.md
 *.pdf
 *.docx
 *.xlsx
 *.pptx
 *.zip
-/journal/
-ongoing_research/**/raw/
-ongoing_research/**/downloads/
 tmp/
-outputs/
-tools/__pycache__/

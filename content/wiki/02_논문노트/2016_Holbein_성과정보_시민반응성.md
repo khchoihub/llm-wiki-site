@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_정책피드백, 합성완료_행정부담]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 소외된 이들: 정부성과정보에 대한 시민 반응성 (Left Behind? Citizen Responsiveness to Government Performance Information)

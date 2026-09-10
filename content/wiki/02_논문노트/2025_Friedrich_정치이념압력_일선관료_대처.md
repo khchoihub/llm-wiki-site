@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_일선관료]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 정치이념적 압력에 대처하기: 일선관료는 어떻게 정책집행을 정치화로부터 방어하는가 (Coping With Political-Ideological Pressure: How Street-Level Bureaucrats Shield Policy Implementation From Politicization)

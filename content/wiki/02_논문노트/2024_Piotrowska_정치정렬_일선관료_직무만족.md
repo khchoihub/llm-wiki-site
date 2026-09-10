@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_일선관료, 합성완료_공공서비스동기]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 정치적 정렬이 일선관료의 직무만족과 동기에 미치는 효과 (The Effect of Political Alignment on Street-Level Bureaucrat Job Satisfaction and Motivation)

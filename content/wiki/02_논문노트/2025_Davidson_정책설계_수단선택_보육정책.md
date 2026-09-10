@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_정책피드백]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 정책설계, 수단선택, 제도적 기업권력의 정책피드백 효과: 호주·캐나다·독일의 보육투자 비교 (Policy Design, Instrument Choice, and Policy Feedback Effects of Institutional Business Power: Varieties of Child Care Investments in Australia, Canada, and Germany)

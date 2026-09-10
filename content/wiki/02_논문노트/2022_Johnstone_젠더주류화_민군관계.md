@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_민군관계]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 캐나다군과 국방부의 젠더 주류화: 젠더기반분석플러스(GBA+) 집행에서 얻은 교훈 (Gender Mainstreaming in the Canadian Armed Forces and the Department of National Defence: Lessons on the Implementation of Gender-Based Analysis Plus)

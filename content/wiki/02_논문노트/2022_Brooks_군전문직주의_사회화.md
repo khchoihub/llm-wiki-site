@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_민군관계]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 무엇이 군 전문직업주의를 만드는가: 웨스트포인트 사관생도의 규범 사회화 평가 (What Makes a Military Professional? Evaluating Norm Socialization in West Point Cadets)

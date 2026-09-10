@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_민군관계]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 국군 재건설: 에티오피아 민군관계의 역설 (Building a National Army: The Paradoxes of Civil–Military Relations in Ethiopia)

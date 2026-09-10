@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_민군관계]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 평화유지활동은 민군관계를 개선하는가: 우루과이의 정치적 방임이 낳은 결과 (Controlling Blue Berets: The Consequences of Political Neglect in the Case of Uruguay's Participation in Peacekeeping)

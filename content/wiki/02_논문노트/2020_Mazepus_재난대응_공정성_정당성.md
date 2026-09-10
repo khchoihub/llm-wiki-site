@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_정책피드백, 합성완료_행정부담]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 재난 대응에서 공정성이 중요하다: 정부 정당성에 관한 실험연구 (Fairness Matters When Responding to Disasters: An Experimental Study of Government Legitimacy)

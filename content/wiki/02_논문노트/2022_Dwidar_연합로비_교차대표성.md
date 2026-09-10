@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_정책피드백, 합성완료_관료제]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 미국 규칙제정 과정에서의 연합로비와 교차성 대표 (Coalitional Lobbying and Intersectional Representation in American Rulemaking)

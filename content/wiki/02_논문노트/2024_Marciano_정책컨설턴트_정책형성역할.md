@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_정책피드백, 합성완료_관료제]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 컨설토크라시와 권력의 시녀를 넘어: 정책형성에서 컨설턴트 역할 설명하기 (Beyond Consultocracy and Servants of Power: Explaining the Role of Consultants in Policy Formulation)

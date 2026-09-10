@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_일선관료, 합성완료_공공서비스동기]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 지방정부 관료제의 조직몰입: 잠비아 사례 (Organizational Commitment in Local Government Bureaucracies: The Case of Zambia)

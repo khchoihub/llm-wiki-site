@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_대표관료제]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 대표관료제, 역할합치성, 케냐의 젠더 할당제 (Representative Bureaucracy, Role Congruence, and Kenya's Gender Quota)

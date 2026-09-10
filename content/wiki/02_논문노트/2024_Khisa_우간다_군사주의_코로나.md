@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_정책피드백, 합성완료_민군관계]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 군사주의와 우간다 코로나19 대응의 정치 (Militarism and the Politics of Covid-19 Response in Uganda)

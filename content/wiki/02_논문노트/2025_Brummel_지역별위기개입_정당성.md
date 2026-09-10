@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_거버넌스]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # "우리는 다 함께다?": 독일과 네덜란드의 지역별 위기개입 정당성 인식에 관한 설문실험 ('We're All in This Together?' A Survey Experiment on the Perceived Legitimacy of Region-Specific Crisis Interventions in Germany and the Netherlands)

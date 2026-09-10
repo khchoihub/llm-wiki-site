@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_관료적저항, 합성완료_민군관계, 합성완료_옹호연합모형]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 민군관계와 러시아 탈소비에트 군사문화: 신념체계 분석 (Civil–Military Relations and Russia's Post-Soviet Military Culture: A Belief System Analysis)

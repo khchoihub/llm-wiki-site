@@ -1,6 +1,7 @@
 ---
 tags: [트랙B, 논문노트, 합성완료_정책피드백, 합성완료_행정부담]
 저장일: 2026-08-31
+password: "0310"
 ---
 
 # 대중을 향한 복지정책 피드백 효과의 부정편향 (Negativity Bias in Welfare Policy Feedback Effects on Mass Publics)
