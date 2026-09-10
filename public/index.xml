@@ -6,11 +6,35 @@
       <description>Last 10 notes on Policy Studies Wiki</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>GRAD_ABROAD</title>
+    <link>https://khchoihub.github.io/llm-wiki-site/operations/grad_abroad/</link>
+    <guid>https://khchoihub.github.io/llm-wiki-site/operations/grad_abroad/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 10 Sep 2026 23:06:23 GMT</pubDate>
+  </item><item>
+    <title>operations</title>
+    <link>https://khchoihub.github.io/llm-wiki-site/operations/</link>
+    <guid>https://khchoihub.github.io/llm-wiki-site/operations/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 10 Sep 2026 23:06:23 GMT</pubDate>
+  </item><item>
     <title>Tag Index</title>
     <link>https://khchoihub.github.io/llm-wiki-site/tags/</link>
     <guid>https://khchoihub.github.io/llm-wiki-site/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 10 Sep 2026 13:52:38 GMT</pubDate>
+    <pubDate>Thu, 10 Sep 2026 23:06:23 GMT</pubDate>
+  </item><item>
+    <title>EDITORIAL_REMEDIATION_2026-09-11</title>
+    <link>https://khchoihub.github.io/llm-wiki-site/operations/grad_abroad/editorial_remediation_2026-09-11</link>
+    <guid>https://khchoihub.github.io/llm-wiki-site/operations/grad_abroad/editorial_remediation_2026-09-11</guid>
+    <description><![CDATA[ GRAD/ABROAD V4 편집 풍부성 보강 결과 수행일: 2026-09-10~2026-09-11 대상: 독립 감사의 우선 재편집 3개 + 조건부 통과 16개 = 19개 수행 방식: 문서별 직렬 수행, 외부 웹 미사용, GRAD·ABROAD 지정 DB 읽기 전용 목표: 기술통계식 요약과 기계적 중립을 피하고, 원문의 장면·망설임·비유·반론을 편집 판단과 함께 복원 결과 요약 항목결과보강한 최종 문서19개우선 재편집3/3 완료국소 보강16/16 완료인용 재검증게시물 344건 + 댓글 203건 = 547건자동 검사엄격 PASS 18, ... ]]></description>
+    <pubDate>Thu, 10 Sep 2026 15:43:59 GMT</pubDate>
+  </item><item>
+    <title>EDITORIAL_RICHNESS_AUDIT_2026-09-10</title>
+    <link>https://khchoihub.github.io/llm-wiki-site/operations/grad_abroad/editorial_richness_audit_2026-09-10</link>
+    <guid>https://khchoihub.github.io/llm-wiki-site/operations/grad_abroad/editorial_richness_audit_2026-09-10</guid>
+    <description><![CDATA[ GRAD/ABROAD V4 위키형 문서 독립 전수 감사 감사일: 2026-09-10 대상: GRAD 34개 + ABROAD 43개 = 최종 문서 77개 감사 초점: 원문 정보의 풍부함과 세부가 남아 있는가, 편집자의 판단이 독자의 선택을 실질적으로 돕는가 제외: 외부 웹 검색, 기존 QA의 PASS/FAIL 판정 원용, 문서 수정 및 배포 1. ]]></description>
+    <pubDate>Thu, 10 Sep 2026 15:43:59 GMT</pubDate>
   </item>
     </channel>
   </rss>
