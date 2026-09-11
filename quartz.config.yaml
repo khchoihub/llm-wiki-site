@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: ko-KR
   baseUrl: "khchoihub.github.io/llm-wiki-site"
   ignorePatterns:
     - private
@@ -84,7 +84,16 @@ plugins:
     order: 40
   - source: github:quartz-community/table-of-contents
     enabled: true
+    options:
+      maxDepth: 3
+      minEntries: 2
+      showByDefault: true
+      collapseByDefault: false
+      layout: modern
     order: 50
+    layout:
+      position: right
+      priority: 20
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -124,7 +133,10 @@ plugins:
     options:
       iterations: 600000
       passwordField: password
-      unlistWhenEncrypted: true
+      # Keep encrypted bodies private while allowing titles and paths to populate
+      # the explorer/search/graph immediately. Hiding 700+ entries forces the
+      # browser to PBKDF2-decrypt the entire shadow index before navigation works.
+      unlistWhenEncrypted: false
       outputPath: static/encryptedContentIndex.json
     layout:
       position: afterBody
@@ -158,6 +170,11 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      title: 문서 탐색
+      folderClickBehavior: collapse
+      folderDefaultState: collapsed
+      useSavedState: true
     layout:
       position: left
       priority: 50
